@@ -1,6 +1,6 @@
 # Data Integrity Policy
 
-Catalyze takes data integrity very seriously. As stewards and partners of Catalyze Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Catalyze mission of data protection.
+Physion takes data integrity very seriously. As stewards and partners of Physion Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Physion mission of data protection.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -20,17 +20,17 @@ Production Systems that create, receive, store, or transmit customer data (herea
 
 ### Monitoring Log-in Attempts
 
-* All access to Production Systems must be logged. This is done following the Catalyze Auditing Policy.
+* All access to Production Systems must be logged. This is done following the Physion Auditing Policy.
 
 ### Prevention of malware on Production Systems
 
 * All Production Systems must have OSSEC running at set to scan system every 2 hours and at reboot to assure not malware is present. Detected malware is evaluated and removed.
-* All Production Systems are to only be used for Catalyze business needs.
+* All Production Systems are to only be used for Physion business needs.
 
 ### Patch Management
 
 * Patches, application, and system OS versions are kept up to date at all times. New versions are tested.
-* Administrators subscribe to mailing lists to assure up to date on current version of all Catalyze managed software on Production Systems.
+* Administrators subscribe to mailing lists to assure up to date on current version of all Physion managed software on Production Systems.
 
 ### Intrusion Detection and Vulnerability Scanning
 
@@ -48,7 +48,7 @@ Production Systems that create, receive, store, or transmit customer data (herea
 * Reduce the risk of compromise of Production Data.
 * Implement and/or review controls designed to protect Production Data from improper alteration or destruction.
 * Ensure that Confidential data is stored in a manner that supports user access logs and automated monitoring for potential security incidents.
-* Ensure Catalyze customer Production Data is segmented and only accessible to customer authorized to access data.
+* Ensure Physion customer Production Data is segmented and only accessible to customer authorized to access data.
 * All Production Data at rest is stored on encrypted volumes.
 
 ### Transmission Security
@@ -56,5 +56,5 @@ Production Systems that create, receive, store, or transmit customer data (herea
 * All data transmission is encrypted end to end. Encryption is not terminated at the network end point, and is carried through to the application.
 * Encryption keys and machines that generate keys are protected from unauthorized access.
 * Encryption keys are limited to use for one year and then must be regenerated.
-* In the case of Catalyze provided APIs, provide mechanisms to assure person sending or receiving data is authorized to send and save data.
+* In the case of Physion provided APIs, provide mechanisms to assure person sending or receiving data is authorized to send and save data.
 * System logs of all transmissions of Production Data access. These logs must be available for audit.
