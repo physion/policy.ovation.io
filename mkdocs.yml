@@ -19,6 +19,7 @@ pages:
   - ['policies/ids_policy.md', 'Intrusion Detection System Policy']
   - ['policies/risk_management_policy.md', 'Risk Management Policy']
   - ['policies/roles_policy.md', 'Roles']
+  - ['policies/systems_access_policy.md', 'Systems Access Policy']
   # - ['policies/incident_response_policy.md', 'Incident Response Policy']
   # - ['policies/policy_management_policy.md', 'Policy Management Policy']
   # - ['policies/risk_management_policy.md', 'Risk Management Policy']
