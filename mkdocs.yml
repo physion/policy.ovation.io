@@ -1,2 +1,11 @@
 site_name: Physion Policies
+pages:
+  - ['index.md', 'Introduction']
+  - ['policies/3rd_party_policy.md', '3rd Party Policy']
+  - ['policies/approved_tools_policy.md', 'Approved Tools Policy']
+  - ['policies/auditing_policy.md', 'Auditing Policy']
+  - ['policies/breach_policy.md', 'Breach Policy']
+  - ['policies/configuration_management_policy.md', 'Configuration Management Policy']
+  # - ['policies/policy_management_policy.md', 'Policy Management Policy']
+  # - ['policies/risk_management_policy.md', 'Risk Management Policy']
 theme: readthedocs
