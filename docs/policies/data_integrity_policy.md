@@ -1,6 +1,6 @@
 # Data Integrity Policy
 
-Physion takes data integrity very seriously. As stewards and partners of Physion Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Physion mission of data protection.
+Physion takes data integrity very seriously. As stewards and partners of our Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Physion mission of data protection.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -12,7 +12,7 @@ Physion takes data integrity very seriously. As stewards and partners of Physion
 
 ## Data integrity Policy
 
-Production Systems that create, receive, store, or transmit customer data (hereafter "Production Systems") must follow the following guidelines.
+Production Systems that create, receive, store, or transmit customer data (hereafter "Production Systems") and are not designated as a "utility" system (see [configuration_management_policy.d](Configuration Management Policy)) must follow the following guidelines.
 
 ### Disabling non-essential services
 
@@ -24,7 +24,7 @@ Production Systems that create, receive, store, or transmit customer data (herea
 
 ### Prevention of malware on Production Systems
 
-* All Production Systems must have OSSEC running at set to scan system every 2 hours and at reboot to assure not malware is present. Detected malware is evaluated and removed.
+* All Production Systems must have OSSEC running and set to scan system every 2 hours and at reboot to assure not malware is present. Detected malware is evaluated and removed.
 * All Production Systems are to only be used for Physion business needs.
 
 ### Patch Management
@@ -34,12 +34,12 @@ Production Systems that create, receive, store, or transmit customer data (herea
 
 ### Intrusion Detection and Vulnerability Scanning
 
-* Production Systems are monitors using IDS systems. Suspicious activity is logged and alerts are generated.
+* Production Systems are monitored using IDS systems. Suspicious activity is logged and alerts are generated.
 * Vulnerability scanning of Production Systems must occur on a predetermined, regular basis, no less than annually. Currently it is weekly. Scans are reviewed by Security Officer, with defined steps for risk mitigation, and retained for future reference.
 
 ### Production System Security
 
-* System, network, and server security is managed and maintained by the VP of Engineering and the Security Officer.
+* System, network, and server security is managed and maintained by the CTO and the Security Officer. <!-- CTO => VP of Engineering -->
 * Up to date system lists and architecture diagrams are kept for all Production environments.
 * Access to Production Systems is controlled using centralized tools and two-factor authentication.
 
