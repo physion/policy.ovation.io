@@ -1,6 +1,6 @@
 # IDS Policy
 
-In order to preserve the integrity of data that Physion stores, processes, or transmits for Customers, Physion implements strong intrusion detection tools and policies to proactively track and retroactively investigate unauthorized access. Physion currently utilizes [OSSEC](http://www.ossec.net/) to track file system integrity, monitor log data, and detect rootkit access.
+In order to preserve the integrity of data that Physion stores, processes, or transmits for Customers, Physion or a Subcontractor implements strong intrusion detection tools and policies to proactively track and retroactively investigate unauthorized access. Physion and our Subcontractor currently utilizes [OSSEC](http://www.ossec.net/) to track file system integrity, monitor log data, and detect rootkit access.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
