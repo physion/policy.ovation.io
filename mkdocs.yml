@@ -13,6 +13,7 @@ pages:
   - ['policies/disposable_media_policy.md', 'Disposable Media Policy']
   - ['policies/employees_policy.md', 'Employees Policy']
   - ['policies/facility_access_policy.md', 'Facility Access Policy']
+  - ['policies/hipaa_mapping_to_physion_controls.md', 'HIPAA Mappings to Physion Controls']
   # - ['policies/policy_management_policy.md', 'Policy Management Policy']
   # - ['policies/risk_management_policy.md', 'Risk Management Policy']
 theme: readthedocs
