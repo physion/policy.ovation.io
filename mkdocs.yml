@@ -12,6 +12,7 @@ pages:
   - ['policies/disaster_recovery_policy.md', 'Disaster Recovery Policy']
   - ['policies/disposable_media_policy.md', 'Disposable Media Policy']
   - ['policies/employees_policy.md', 'Employees Policy']
+  - ['policies/facility_access_policy.md', 'Facility Access Policy']
   # - ['policies/policy_management_policy.md', 'Policy Management Policy']
   # - ['policies/risk_management_policy.md', 'Risk Management Policy']
 theme: readthedocs
