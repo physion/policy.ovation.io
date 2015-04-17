@@ -33,12 +33,11 @@ The Physion incident response process follows the process recommended by SANS, a
 1. Immediately upon observation Physion members report suspected and known Precursors, Events, Indications, and Incidents in one of the following ways:
 	1. Direct report to management, the Security Officer, Privacy Officer, or other;
 	2. Email;
-	3. Phone call;
-	4. Online incident response form located [here](https://docs.google.com/a/Physion.io/forms/d/1Hn4di9Jdw5JT8vISMh6tVUnh94VpeHucell7Ca4fKTo/viewform);
+	3. Phone call; 	<!-- 4. Online incident response form located [here](https://docs.google.com/a/Physion.io/forms/d/1Hn4di9Jdw5JT8vISMh6tVUnh94VpeHucell7Ca4fKTo/viewform); -->
 	5. Secure Chat.
 	6. Anonymously through workforce members desired channels.
 	7. The individual receiving the report facilitates completion of an [Incident Identification form](./incident.form.pdf) and notifies the Security Officer (if not already done).
-	8. The Security Officer determines if the issue is a Precursor, Incident, Event, or Incident.
+	8. The Security Officer determines if the issue is a Precursor, Event, Indication or Incident.
 	9. If the issue is an event, indication, or precursor the Security Officer forwards it to the appropriate resource for resolution.
 		1. Non-Technical Event (minor infringement): the Security Officer completes a SIR Form (see Appendix 2) and investigates the incident.
 		2. Technical Event: Assign the issue to an IT resource for resolution. This resource may also be a contractor or outsourced technical resource, in the event of a small office or lack of expertise in the area.
@@ -127,6 +126,6 @@ Individuals needed and responsible to respond to a security incident make up a S
 * Security Officer
 * Privacy Officer
 * Senior Management
-* VP of Engineering
+* Lead Engineer
 
 

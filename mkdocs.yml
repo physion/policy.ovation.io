@@ -15,6 +15,8 @@ pages:
   - ['policies/facility_access_policy.md', 'Facility Access Policy']
   - ['policies/hipaa_mapping_to_physion_controls.md', 'HIPAA Mappings to Physion Controls']
   - ['policies/ids_policy.md', 'Intrusion Detection System Policy']
+  # - ['policies/incident_response_policy.md', 'Incident Response Policy']
   # - ['policies/policy_management_policy.md', 'Policy Management Policy']
   # - ['policies/risk_management_policy.md', 'Risk Management Policy']
+  - ['license.md', 'License']
 theme: readthedocs
