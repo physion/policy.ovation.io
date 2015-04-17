@@ -4,8 +4,11 @@ Physion utilizes a suite of approved software tools for internal use by workforc
 
 ## List of Approved Tools
 
-* **Gitlab**. Gitlab is an open source tool built on top of Git, the version control platform. Gitlab is hosted and secured by Physion. It is utilized for storage of configuration scripts and other infrastructure automation tools, as well as for source and version control of application code used by Physion.
-
-* **Box**. Box is used for storage of files and sharing of files with Partners and Customers.
+* **GitHub**. GitHub is used for source and version control of application code written and used by Physion.
 
 * **Google Apps**. Google Apps is used for email and document collaboration.
+
+* **New Relic**. New Relic is used for application and server monitoring.
+
+* **Trello**. Trello is used for project and development planning, and development work board.
+
