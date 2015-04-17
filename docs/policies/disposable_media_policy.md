@@ -23,5 +23,4 @@ Physion utilizes dedicated hardware from Subcontractors. ePHI is only stored on 
 7. Any media containing ePHI is disposed using a method that ensures the ePHI could not be readily recovered or reconstructed.
 8. The methods of destruction, disposal, and reuse are reassessed periodically, based on current technology, accepted practices, and availability of timely and cost-effective destruction, disposal, and reuse technologies and services.
 9. In the cases of a Physion Customer terminating a contract with Physion and not longer utilize Physion Services, the following actions will be taken depending on the Physion Services in use. In all cases it is solely the responsibility of the Physion Customer to maintain the safeguards required of HIPAA once the data is transmitted out of Physion Systems.
-	* In the case of BaaS Customer termination, Physion will provide the customer with the ability to export data in commonly used format, currently CSV, for 30 days from the time of termination.
-	* In the case of PaaS Customer termination, Physion will provide the customer with 30 days from the date of termination to export data.
+	* Physion will provide the customer with 30 days from the date of termination to export data.

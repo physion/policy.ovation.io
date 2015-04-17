@@ -10,6 +10,7 @@ pages:
   - ['policies/data_management_policy.md', 'Data Management Policy']
   - ['policies/data_retention_policy.md', 'Data Retention Policy']
   - ['policies/disaster_recovery_policy.md', 'Disaster Recovery Policy']
+  - ['policies/disposable_media_policy.md', 'Disposable Media Policy']
   # - ['policies/policy_management_policy.md', 'Policy Management Policy']
   # - ['policies/risk_management_policy.md', 'Risk Management Policy']
 theme: readthedocs
