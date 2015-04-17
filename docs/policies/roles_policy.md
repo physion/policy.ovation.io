@@ -21,7 +21,7 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-The current Physion Privacy Officer is Travis Good ([travis@Physion.io](mailto:travis@Physion.io)).
+The current Physion Privacy Officer is Winston Brasor ([winston@physion.us](mailto:winston@physion.us)).
 
 ## Workforce Training Responsibilities
 
@@ -62,7 +62,7 @@ The current Physion Privacy Officer is Travis Good ([travis@Physion.io](mailto:t
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Physion security policies and non-compliance with the security regulations [164.308(a)(1)(ii)(c)], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Physion Security Officer is Benjamin Uphoff ([ben@Physion.io](mailto:ben@Physion.io)).
+The current Physion Security Officer is Barry Wark ([barry@physion.us](mailto:barry@physion.us)).
 
 ## Organizational Responsibilities
 
@@ -91,7 +91,7 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 	2. Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of Physion.
 	3. Mitigates, to the extent practicable, any harmful effect known to Physion of a use or disclosure of ePHI in violation of Physion’s policies and procedures, even if effect is the result of actions of Physion business associates, customers, and/or partners. 
 
-12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Physion Breach Policy](./#breach).
+12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Physion Breach Policy](breach_policy.md).
 
 13. The Security Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains.  Examples of security updates and reminders include, but are not limited to:
 	1. Latest malicious software or virus alerts;

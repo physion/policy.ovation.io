@@ -18,6 +18,7 @@ pages:
   - ['policies/hipaa_mapping_to_physion_controls.md', 'HIPAA Mappings to Physion Controls']
   - ['policies/ids_policy.md', 'Intrusion Detection System Policy']
   - ['policies/risk_management_policy.md', 'Risk Management Policy']
+  - ['policies/roles_policy.md', 'Roles']
   # - ['policies/incident_response_policy.md', 'Incident Response Policy']
   # - ['policies/policy_management_policy.md', 'Policy Management Policy']
   # - ['policies/risk_management_policy.md', 'Risk Management Policy']
