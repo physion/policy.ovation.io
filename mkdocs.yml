@@ -1,6 +1,7 @@
 site_name: Physion Policies
 pages:
   - ['index.md', 'Introduction']
+  - ['policies/policy_management_policy.md', 'Policy Management Policy']
   - ['policies/key_definitions.md', 'Key Definitions']
   - ['policies/3rd_party_policy.md', '3rd Party Policy']
   - ['policies/approved_tools_policy.md', 'Approved Tools Policy']
