@@ -8,6 +8,7 @@ pages:
   - ['policies/configuration_management_policy.md', 'Configuration Management Policy']
   - ['policies/data_integrity_policy.md', 'Data Integrity Policy']
   - ['policies/data_management_policy.md', 'Data Management Policy']
+  - ['policies/data_retention_policy.md', 'Data Retention Policy']
   # - ['policies/policy_management_policy.md', 'Policy Management Policy']
   # - ['policies/risk_management_policy.md', 'Risk Management Policy']
 theme: readthedocs

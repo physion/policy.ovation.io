@@ -1,6 +1,6 @@
 # Data Retention Policy
 
-Despite not being a requirement within HIPAA, Physion understand and appreciates the importance of health data retention. Acting as a subcontractor, and at times a business associate, Physion is not directly responsible for health and medical records retention as set forth by each state. Despite this, Physion has created and implemented the following policy to make it easier for Physion Customers to support data retention laws.
+Despite not being a requirement within HIPAA, Physion understand and appreciates the importance of health data retention. Acting as a susiness associate, and at times a subcontractor, Physion is not directly responsible for health and medical records retention as set forth by each state. Despite this, Physion has created and implemented the following policy to make it easier for Physion Customers to support data retention laws.
 
 ## State Medical Record Laws
 
