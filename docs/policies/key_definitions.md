@@ -2,7 +2,7 @@
 
 * *Application*: An application hosted by Physion, either maintained and created by Physion, or maintained and created by a Customer or Partner.
 
-* *Application Level*: Controls and security associated with an Application. In the case of PaaS Customers, Physion does not have access to and cannot assure compliance with security standards and policies at the Application Level.
+* *Application Level*: Controls and security associated with an Application.
 
 * *Audit*: Internal process of reviewing information system access and activity (e.g., log-ins, file accesses, and security incidents). An audit may be done as a periodic event, as a result of a patient complaint, or suspicion of employee wrongdoing.
 
@@ -10,13 +10,9 @@
 
 * *Audit Logs*: Encrypted records of activity maintained by the system which provide: 1) date and time of activity; 2) origin of activity (app); 3) identification of user doing activity; and 4) data accessed as part of activity.
 
-* *Access*: Means the ability or the means necessary to read, write, modify, or communicate data/ information or otherwise use any system resource.
-
-* *BaaS*: Backend-as-a-Service. A set of APIs, and associated SDKs, for rapid mobile and web application development. APIs offer the ability to create users, do authentication, store data, and store files.
+* *Access*: Means the ability or the means necessary to read, write, modify, or communicate data or information or otherwise use any system resource.
 
 * *Backup*: The process of making an electronic copy of data stored in a computer system. This can either be complete, meaning all data and programs, or incremental, including just the data that changed from the previous backup.
-
-* *Backup Service*: A logging service for unifying system and application logs, encrypting them, and providing a dashboard for them. Offered with all Physion Add-ons and as an option for PaaS Customers.
 
 * *Breach*: Means the acquisition, access, use, or disclosure of protected health information (PHI) in a manner not permitted under the Privacy Rule which compromises the security or privacy of the PHI. For purpose of this definition, “compromises the security or privacy of the PHI” means poses a significant risk of financial, reputational, or other harm to the individual. A use or disclosure of PHI that does not include the identifiers listed at §164.514(e)(2), limited data set, date of birth, and zip code does not compromise the security or privacy of the PHI. Breach excludes:
 
@@ -30,21 +26,19 @@
 
 * *De-identification*: The process of removing identifiable information so that data is rendered to not be PHI.
 
-* *Disaster Recovery*: The ability to recover a system and data after being made unavailable.
-
-* *Disaster Recovery Service*: A disaster recovery service for disaster recovery in the case of system unavailability. This includes both the technical and the non-technical (process) required to effectively stand up an application after an outage. Offered with all Physion Add-ons and as an option for PaaS Customers.
+* *Disaster Recovery*: The process or ability to recover a system and data after being made unavailable.
 
 * *Disclosure*: Disclosure means the release, transfer, provision of, access to, or divulging in any other manner of information outside the entity holding the information.
 
-* *Customers*: Contractually bound users of Physion Platform.
+* *Customers*: Contractually bound users of Physion Services (e.g. Ovation).
 
 * *Electronic Protected Health Information (ePHI)*: Any individually identifiable health information protected by HIPAA that is transmitted by, processed in some way, or stored in electronic media. 
 
 * *Environment*: The overall technical environment, including all servers, network devices, and applications.
 
 * *Event*: An event is defined as an occurrence that does not constitute a serious adverse effect on Physion, its operations, or its Customers, though it may be less than optimal. Examples of events include, but are not limited to:
-	* A hard drive malfunction that requires replacement;
-	*  Systems become unavailable due to power outage that is non-hostile in nature, with redundancy to assure ongoing availability of data;
+	* Hard drive malfunction that requires replacement;
+	* Systems become unavailable due to power outage that is non-hostile in nature, with redundancy to assure ongoing availability of data;
 	* Accidental lockout of an account due to incorrectly entering a password multiple times.
 
 * *Hardware (or hard drive)*: Any computing device able to create and store ePHI.
@@ -61,13 +55,11 @@
 	* Automated alerts of activity from log monitors like OSSEC;
 	* An alert from OSSEC about file system integrity issues.
 
-* *Intrusion Detection System (IDS)*: A software tool use to automatically detect and notify in the event of possible unauthorized network and/or system access. 
-
-* *IDS Service*: An Intrusion Detection Service for providing IDS notification to customers in the case of suspicious activity. Offered with all Physion Add-ons and as an option for PaaS Customers.
+* *Intrusion Detection System (IDS)*: A software tool used to automatically detect and notify in the event of possible unauthorized network and/or system access. 
 
 * *Law Enforcement Official*: Any officer or employee of an agency or authority of the United States, a State, a territory, a political subdivision of a State or territory, or an Indian tribe, who is empowered by law to investigate or conduct an official inquiry into a potential violation of law; or prosecute or otherwise conduct a criminal, civil, or administrative proceeding arising from an alleged violation of law.
 
-* *Logging Service*: A logging service for unifying system and application logs, encrypting them, and providing a dashboard for them. Offered with all Physion Add-ons and as an option for PaaS Customers.
+* *Logging Service*: A logging service for unifying system and application logs, encrypting them and storing them for access by authorized personnel.
 
 * *Messaging*: API-based services to deliver and receive SMS messages.
 
@@ -77,9 +69,9 @@
 
 * *Organization*: For the purposes of this policy, the term “organization” shall mean Physion.
 
-* *Partner*: Contractual bound 3rd party vendor with integration with the Physion Platform. May offer Add-on services.
+* *Partner*: Contractual bound 3rd party vendor with integration with the Ovation Platform. May offer Add-on services.
 
-* *Platform*: The overall technical environment of Physion.
+* *Platform*: The overall technical environment of Ovation.
 
 * *Protected Health Information (PHI)*: Individually identifiable health information that is created by or received by the organization, including demographic information, that identifies an individual, or provides a reasonable basis to believe the information can be used to identify an individual, and relates to:
 	* Past, present or future physical or mental health or condition of an individual.
@@ -93,8 +85,6 @@
 * *Trigger Event*: Activities that may be indicative of a security breach that require further investigation (See Appendix).
 
 * *Restricted Area*: Those areas of the building(s) where protected health information and/or sensitive organizational information is stored, utilized, or accessible at any time. 
-
-* *Role*: The category or class of person or persons doing a type of job, defined by a set of similar or identical responsibilities.
 
 * *Precursor*: A sign that an Incident may occur in the future. Examples of precursors include:
 	* Suspicious network and host-based IDS events/attacks;
