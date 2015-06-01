@@ -35,8 +35,7 @@ The current Physion Privacy Officer is Winston Brasor ([winston@physion.us](mail
 
 3. The training session focuses on, but is not limited to, the following subjects defined in Physion ‘s security policies and procedures:
 	1. HIPAA Privacy, Security, and Breach notification rules;
-	2. HITRUST Common Security Framework;
-	3. NIST Security Rules;
+	2. HITRUST Common Security Framework;  <!-- 3. NIST Security Rules; -->
 	4. Risk Management procedures and documentation;
 	5. Auditing.  Physion may monitor access and activities of all users;
 	6. Workstations may only be used to perform assigned job responsibilities;
