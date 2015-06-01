@@ -38,7 +38,7 @@ It is the policy of Physion to safeguard the confidentiality, integrity, and ava
 	* Assign the task of generating reports for audit activities to the workforce member responsible for the application, system, or network;
 	* Assign the task of reviewing the audit reports to the workforce member responsible for the application, system, or network, the Privacy Officer, or any other individual determined to be appropriate for the task;
 	* Organize and provide oversight to a team structure charged with audit compliance activities (e.g., parameters, frequency, sample sizes, report formats, evaluation, follow-up, etc.).
-	* All connections to Ovation are monitored. Access is limited to certain services, ports, and destinations. Exceptions to these rules, if created, are reviewed on an annual basis. 
+	* Ensure that all connections to Ovation are monitored. Access is limited to certain services, ports, and destinations. Exceptions to these rules, if created, are reviewed on an annual basis. 
 2. Physion’s auditing processes shall address access and activity at the following levels listed below. Auditing processes may address date and time of each log-on attempt, date and time of each log-off attempt, devices used, functions performed, etc.
 	* User: User level audit trails generally monitor and log all commands directly initiated by the user, all identification and authentication attempts, and data and services accessed.
 	* Application: Application level audit trails generally monitor and log all user activities, including data accessed and modified and specific actions.
@@ -46,7 +46,7 @@ It is the policy of Physion to safeguard the confidentiality, integrity, and ava
 	* Network: Network level audit trails generally monitor information on what is operating, penetrations, and vulnerabilities.
 3. Physion shall log all incoming and outgoing traffic to into and out of its environment. This includes all successful and failed attempts at data access and editing. Data associated with this data will include origin, destination, time, and other relevant details that are available to Physion.
 4. Physion utilizes OSSEC to scan all systems for malicious and unauthorized software every 2 hours and at reboot of systems. Alerts from OSSEC are sent to Kibana, the centralized logging service that we use.
-5. Physion leverages process monitoring tools throughout its environment.<!-- 6. Physion treats its Developer Portal as a Platform Add-on and, as such, it logs all activity associated with Developer Portal Access. -->
+5. Physion leverages process monitoring tools throughout its environment.
 7. Physion uses OSSEC to monitor the integrity of log files by utilizing OSSEC System Integrity Checking capabilities.
 8. Physion shall identify “trigger events” or criteria that raise awareness of questionable conditions of viewing of confidential information. The “events” may be applied to the entire Ovation system or may be specific to a Customer, partner, business associate, or application (See Listing of Potential Trigger Events below).
 9. In addition to trigger events, Physion utilizes OSSEC log correlation functionality to proactively identify and enable alerts based on log data.
@@ -72,7 +72,7 @@ It is the policy of Physion to safeguard the confidentiality, integrity, and ava
 1. A request may be made for an audit for a specific cause. The request may come from a variety of sources including, but not limited to, Privacy Officer, Security Officer, Customer, or Partner.
 2. A request for an audit for specific cause must include time frame, frequency, and nature of the request. The request must be reviewed and approved by Physion’s Privacy or Security Officer.
 3. A request for an audit must be approved by Physion’s Privacy Officer and/or Security Officer before proceeding. Under no circumstances shall detailed audit information be shared with parties without proper permissions and access to see such data.
-	* Should the audit disclose that a workforce member has accessed ePHI inappropriately, the minimum necessary/least privileged information shall be shared with Physion’s Security Officer to determine appropriate sanction/ corrective disciplinary action.
+	* Should the audit disclose that a workforce member has accessed ePHI inappropriately, the minimum necessary/least privileged information shall be shared with Physion’s Security Officer to determine appropriate sanction or corrective disciplinary action.
 	* Only de-identified information shall be shared with Customer or Partner regarding the results of the investigative audit process. This information will be communicated to the appropriate personnel by Physion’s Privacy Officer or designee. Prior to communicating with customers and partners regarding an audit, it is recommended that Physion consider seeking risk management and/or legal counsel.
 
 ## Review and Reporting of Audit Findings
@@ -114,10 +114,9 @@ It is the policy of Physion to safeguard the confidentiality, integrity, and ava
 
 ## Retention of Audit Data
 
-1. Audit logs shall be maintained based on organizational needs. There is no standard or law addressing the retention of audit log/trail information. Retention of this information shall be based on:
-A. Organizational history and experience.
-B. Available storage space.
-1. Reports summarizing audit activities shall be retained for a period of six years.
+1. Audit logs shall be maintained based on organizational needs. There is no standard or law addressing the retention of audit log/trail information. Retention of this information shall be based on: Organizational history and experience; and Available storage space.
+  
+2. Reports summarizing audit activities shall be retained for a period of six years.
 3. Log data is currently retained and readily accessible for a 1-month period. Beyond that, log data is available via cold backup. 
 
 ## Potential Trigger Events
