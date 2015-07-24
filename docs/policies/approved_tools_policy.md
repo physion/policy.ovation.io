@@ -6,6 +6,10 @@ Physion utilizes a suite of approved software tools for internal use by workforc
 
 * **GitHub**. GitHub is used for source and version control of application code written and used by Physion.
 
+* **Ovation**. Ovation is used for managed document control and training records.
+
+* **Catalyze**. Catalyze.io is used for HIPAA-compliant cloud infrastructure, including logging and monitoring tools.
+
 * **Google Apps**. Google Apps is used for email and document collaboration.
 
 * **New Relic**. New Relic is used for application and server monitoring.
