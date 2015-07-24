@@ -2,7 +2,7 @@
 
 The Physion Contingency Plan establishes procedures to recover Physion following a disruption resulting from a disaster. This Disaster Recovery Policy is maintained by the Physion Security Officer and Privacy Officer.
 
-The following objectives have been established for this plan: 
+The following objectives have been established for this plan:
 
 1. Maximize the effectiveness of contingency operations through an established plan that consists of the following phases:
 	* *Notification/Activation phase* to detect and assess damage and to activate the plan;
@@ -10,14 +10,14 @@ The following objectives have been established for this plan:
 	* *Reconstitution phase* to restore IT system processing capabilities to normal operations.
 2. Identify the activities, resources, and procedures needed to carry out Physion processing requirements during prolonged interruptions to normal operations.
 3. Identify and define the impact of interruptions to Physion systems.
-4. Assign responsibilities to designated personnel and provide guidance for recovering Physion during prolonged periods of interruption to normal operations. 
+4. Assign responsibilities to designated personnel and provide guidance for recovering Physion during prolonged periods of interruption to normal operations.
 5. Ensure coordination with other Physion staff who will participate in the contingency planning strategies.
-6. Ensure coordination with external points of contact and vendors who will participate in the contingency planning strategies. 
+6. Ensure coordination with external points of contact and vendors who will participate in the contingency planning strategies.
 
-This Physion Contingency Plan has been developed as required under the Office of Management and Budget (OMB) Circular A-130, Management of Federal Information Resources, Appendix III, November 2000, and the Health Insurance Portability and Accountability Act (HIPAA) Final Security Rule, Section §164.308(a)(7), which requires the establishment and implementation of procedures for responding to events that damage systems containing electronic protected health information. 
+This Physion Contingency Plan has been developed as required under the Office of Management and Budget (OMB) Circular A-130, Management of Federal Information Resources, Appendix III, November 2000, and the Health Insurance Portability and Accountability Act (HIPAA) Final Security Rule, Section §164.308(a)(7), which requires the establishment and implementation of procedures for responding to events that damage systems containing electronic protected health information.
 
 This Physion Contingency Plan is created under the legislative requirements set forth in the Federal Information Security Management Act (FISMA) of 2002 and the guidelines established by the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-34, titled "Contingency Planning Guide for Information Technology Systems" dated June 2002.
- 
+
 The Physion Contingency Plan also complies with the following federal and departmental policies:
 
 * The Computer Security Act of 1987;
@@ -49,11 +49,11 @@ The following order of succession to ensure that decision-making authority for t
 
 * Barry Wark, CEO/CTO: 617-299-9520, barry@physion.us
 * Daniel Guettler, Lead Engineer: daniel.guettler@gmail.com
-* Winston Brasor, CCO/CCP: (317) 602-8149, winston@physion.us
+* Winston Brasor, CCO/CPO: (317) 602-8149, winston@physion.us
 
 ## Responsibilities
 
-The following teams have been developed and trained to respond to a contingency event affecting the IT system. 
+The following teams have been developed and trained to respond to a contingency event affecting the IT system.
 
 1. The **Ops Team** is responsible for recovery of the Physion hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of Physion. The team leader is the VP of Engineering and directs the Dev Ops Team.
 2. The **Web Services Team** is responsible for assuring all application servers, and web services are working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the CTO and directs the Web Services Team.
@@ -74,7 +74,7 @@ The primary objective of the technical test is to ensure the communication proce
 
 * Process from backup system at the alternate site;
 * Restore system using backups; and
-* Switch compute and storage resources to alternate processing site. 
+* Switch compute and storage resources to alternate processing site.
 
 ## 1. Notification and Activation Phase
 
@@ -102,9 +102,9 @@ The notification sequence is listed below:
 
 ## 2. Recovery Phase
 
-This section provides procedures for recovering the application at an alternate site, whereas other efforts are directed to repair damage to the original system and capabilities. 
+This section provides procedures for recovering the application at an alternate site, whereas other efforts are directed to repair damage to the original system and capabilities.
 
-The following procedures are for recovering the Physion infrastructure at the alternate site. Procedures are outlined per team required. Each procedure should be executed in the sequence it is presented to maintain efficient operations. 
+The following procedures are for recovering the Physion infrastructure at the alternate site. Procedures are outlined per team required. Each procedure should be executed in the sequence it is presented to maintain efficient operations.
 
 Recovery Goal: The goal is to rebuild Physion infrastructure to a production state.
 
@@ -133,4 +133,4 @@ This section discusses activities necessary for restoring Physion operations at 
 
 2. Plan Deactivation
 
-If the Physion environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the Physion Media Disposal Policy. 
+If the Physion environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the Physion Media Disposal Policy.
