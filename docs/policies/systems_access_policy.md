@@ -91,7 +91,7 @@ All workstations at Physion are company owned, and all are laptop Apple products
 * Users may not misrepresent, obscure, suppress, or replace another user’s identity in transmitted or stored messages.
 * Workstation hard drives will be encrypted using FileVault 2.0.
 * All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-<!-- * All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Physion LLC. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.ovation.io/) and have completed this training (https://training.ovation.io/). Please contact us if you have problems with this - privacy@ovation.io.* -->
+* All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Physion LLC. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.ovation.io/) and have completed this training (https://training.ovation.io/). Please contact us if you have problems with this - privacy@ovation.io.*
 
 ## Wireless Access Use
 

@@ -47,9 +47,9 @@ Physion defined two categories of systems from a disaster recovery perspective.
 
 The following order of succession to ensure that decision-making authority for the Physion Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) and Security Officer, Barry Wark, and Lead Engineer, Daniel Guettler, are responsible for ensuring the safety of personnel and the execution of procedures documented within this Physion Contingency Plan. If the CTO and Lead Engineer are unable to function as the overall authority or choose to delegate this responsibility to a successor, the CPO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
-* Barry Wark, CEO/CTO/CSO: (617) 299-9520, barry@physion.us
+* Barry Wark, CEO/CTO: 617-299-9520, barry@physion.us
 * Daniel Guettler, Lead Engineer: daniel.guettler@gmail.com
-* Winston Brasor, CCO/CPO: (317) 602-8149, winston@physion.us
+* Winston Brasor, CCO/CCP: (317) 602-8149, winston@physion.us
 
 ## Responsibilities
 
