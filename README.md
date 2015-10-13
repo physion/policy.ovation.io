@@ -34,7 +34,7 @@ We help companies who handle PHI, both business associates and covered entities,
 
 To get in touch, shoot us an email at [hello@catalyze.io](mailto:hello@catalyze.io). We'd love to hear from you!
 
-[Physion LLC](https://physion.us) modified these policies for use by Physion, maintaining the license described below.
+[Physion LLC](https://ovation.io) modified these policies for use by Physion, maintaining the license described below.
 
 ### License
 

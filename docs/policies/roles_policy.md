@@ -21,7 +21,7 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-The current Physion Privacy Officer is Winston Brasor ([winston@physion.us](mailto:winston@physion.us)).
+The current Physion Privacy Officer is Winston Brasor ([winston@ovation.io](mailto:winston@ovation.io)).
 
 ## Workforce Training Responsibilities
 
