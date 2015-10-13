@@ -1,4 +1,9 @@
 #!/bin/sh
 
-workon py27
+RELEASE_VERSION=$1
+
+git tag v${RELEASE_VERSION}
+git push --tags
+
+mkdocs clean
 mkdocs gh-deploy
