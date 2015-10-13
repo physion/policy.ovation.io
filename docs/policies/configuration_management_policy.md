@@ -14,8 +14,8 @@ Physion standardizes and automates configuration management through the use of S
 
 1. Salt and/or AWS Elastic Beanstalk environments are used to standardize and automate configuration management.
 2. OSSEC is used to scan systems every 2 hours and on reboot. These scans capture file system changes and also unauthorized or malicious software.
-3. No systems are deployed into Physion environments without approval of the Physion CTO.
-4. All changes to production systems, network devices, and firewalls are approved by the Physion CTO before they are implemented. Additionally, all changes are tested before they are implemented in production.
+3. No systems are deployed into Physion environments without approval of the Physion Chief Architect.
+4. All changes to production systems, network devices, and firewalls are approved by the Physion Chief Architect before they are implemented. Additionally, all changes are tested before they are implemented in production.
 5. An up-to-date inventory of systems is maintained using AWS and Catalyze dashboards. All systems are categorized as production and utility to differentiate based on criticality.
 6. Clocks are synchronized across all systems using NTP. Modifying time data on systems is restricted.
 7. All front end functionality (developer dashboards and portals) is separated from backend (database and app servers) systems by being deployed on separate servers.
