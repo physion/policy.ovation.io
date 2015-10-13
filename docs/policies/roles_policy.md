@@ -31,7 +31,7 @@ The current Physion Privacy Officer is Winston Brasor ([winston@physion.us](mail
 	3. Existing workforce members whose functions are affected by a material change in the policies and procedures, within a month after the material change becomes effective;
 	4. Existing workforce members as needed due to changes in security and risk posture of Physion.
 
-2. The Security Officer or designee maintains documentation of the training session materials and attendees for a minimum of six years. 
+2. The Security Officer or designee maintains documentation of the training session materials and attendees for a minimum of six years.
 
 3. The training session focuses on, but is not limited to, the following subjects defined in Physion ‘s security policies and procedures:
 	1. HIPAA Privacy, Security, and Breach notification rules;
@@ -62,7 +62,7 @@ The current Physion Privacy Officer is Winston Brasor ([winston@physion.us](mail
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Physion security policies and non-compliance with the security regulations [164.308(a)(1)(ii)(c)], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Physion Security Officer is Barry Wark ([barry@physion.us](mailto:barry@physion.us)).
+The current Physion Security Officer is Barry Wark ([barry@ovation.io](mailto:barry@ovation.io)).
 
 ## Organizational Responsibilities
 
@@ -89,7 +89,7 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 11. Maintains a program promoting workforce members to report non-compliance with policies and procedures.
 	1. Promptly, properly, and consistently investigates and addresses reported violations and takes steps to prevent recurrence.
 	2. Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of Physion.
-	3. Mitigates, to the extent practicable, any harmful effect known to Physion of a use or disclosure of ePHI in violation of Physion’s policies and procedures, even if effect is the result of actions of Physion business associates, customers, and/or partners. 
+	3. Mitigates, to the extent practicable, any harmful effect known to Physion of a use or disclosure of ePHI in violation of Physion’s policies and procedures, even if effect is the result of actions of Physion business associates, customers, and/or partners.
 
 12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Physion Breach Policy](breach_policy.md).
 
@@ -128,12 +128,11 @@ All workforce members report non-compliance of Physion’s policies and procedur
 	4. Provide individuals suspected of non-compliance of the Security rule and/or Physion’s policies and procedures the opportunity to explain their actions.
 	5. The investigators thoroughly documents the investigation as the investigation occurs.
 
-2. Violation of any security policy or procedure by workforce members may result in corrective disciplinary action, up to and including termination of employment.  Violation of this policy and procedures by others, including business associates, customers, and partners may result in termination of the relationship and/or associated privileges.  Violation may also result in civil and criminal penalties as determined by federal and state laws and regulations. 
+2. Violation of any security policy or procedure by workforce members may result in corrective disciplinary action, up to and including termination of employment.  Violation of this policy and procedures by others, including business associates, customers, and partners may result in termination of the relationship and/or associated privileges.  Violation may also result in civil and criminal penalties as determined by federal and state laws and regulations.
   8. A violation resulting in a breach of confidentiality (i.e. release of PHI to an unauthorized individual), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from Physion.
 
 3. The Security Officer facilitates taking appropriate steps to prevent recurrence of the violation (when possible and feasible).
 
-4. In the case of an insider threat, the Security Officer and Privacy Officer are to setup a team to investigate and mitigate the risk of insider malicious activity. Physion workforce members are encouraged to come forward with information about insider threats, and can do so anonymously. 
+4. In the case of an insider threat, the Security Officer and Privacy Officer are to setup a team to investigate and mitigate the risk of insider malicious activity. Physion workforce members are encouraged to come forward with information about insider threats, and can do so anonymously.
 
-5. The Security Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation. 
-
+5. The Security Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation.
