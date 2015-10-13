@@ -12,4 +12,4 @@ Physion utilizes a suite of approved software tools for internal use by workforc
 
 * **Trello**. Trello is used for project and development planning, and development work board.
 
-  **Dropbox**. Dropbox is used for document collaboration.
+* **Dropbox**. Dropbox is used for document collaboration.
