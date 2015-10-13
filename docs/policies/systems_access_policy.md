@@ -24,14 +24,14 @@ Access to Physion systems and applications is limited for all users, including b
 * 164.312d Person or Entity Authentication
 * 164.312a2i Unique User Identification
 * 164.308a5iiD Password Management
-* 164.312a2iii Automatic Logoff 
+* 164.312a2iii Automatic Logoff
 * 164.310b Workstation Use
 * 164.310c Workstation Security
 * 164.308a3iiC Termination Procedures
 
 ## Access Establishment and Modification
 
-* Requests for access to Ovation Platform systems and applications is made formally to the Lead Engineer, Privacy Officer, or Security Officer.
+* Requests for access to Ovation Platform systems and applications is made formally to the Chief Architect, Privacy Officer, or Security Officer.
 * Access is not granted until receipt, review, and approval by the Physion Security Officer;
 * The request for access is retained for future reference.
 * All access to Physion systems and services are reviewed and updated on an bi-annual basis to assure proper authorizations are in place commiserate with job functions. <!-- The form used to conduct account review is [here](https://docs.google.com/a/Physion.io/forms/d/1oeejMta4XLiUsdH2gTKQ-glec6DBiwPJoY9F60HmPWk/viewform). -->
@@ -57,7 +57,7 @@ Access to Physion systems and applications is limited for all users, including b
 
 ## Access Authorization
 
-* Role based access categories for each Physion system and application are pre-approved by the Security Officer or Lead Engineer.
+* Role based access categories for each Physion system and application are pre-approved by the Security Officer or Chief Architect.
 * Physion utilizes hardware and software firewalls to segment data, prevent unauthorized access, and monitor traffic for denial of service attacks.
 
 ## Person or Entity Authentication
@@ -86,7 +86,7 @@ All workstations at Physion are company owned, and all are laptop Apple products
 * Workstations may not be used to engage in any activity that is illegal or is in violation of organization’s policies.
 * Access may not be used for transmitting, retrieving, or storage of any communications of a discriminatory or harassing nature or materials that are obscene or “X-rated”. Harassment of any kind is prohibited. No messages with derogatory or inflammatory remarks about an individual’s race, age, disability, religion, national origin, physical attributes, sexual preference, or health condition shall be transmitted or maintained. No abusive, hostile, profane, or offensive language is to be transmitted through organization’s system.
 * Information systems/applications also may not be used for any other purpose that is illegal, unethical, or against company policies or contrary to organization’s best interests. Messages containing information related to a lawsuit or investigation may not be sent without prior approval.
-* Solicitation of non-company business, or any use of organization’s information systems/applications for personal gain is prohibited. 
+* Solicitation of non-company business, or any use of organization’s information systems/applications for personal gain is prohibited.
 * Transmitted messages may not contain material that criticizes organization, its providers, its employees, or others.
 * Users may not misrepresent, obscure, suppress, or replace another user’s identity in transmitted or stored messages.
 * Workstation hard drives will be encrypted using FileVault 2.0.
@@ -128,4 +128,3 @@ Physion does not use paper records for any sensitive information. Use of paper f
 * All default system, application, and Partner passwords are changed before deployment to production.
 * All passwords used in configuration scripts are secured and encrypted.
 * If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
-

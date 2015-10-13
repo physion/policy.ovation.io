@@ -64,9 +64,9 @@ In this Phase, Physion’s IT department attempts to contain the security incide
 	4. If appropriate, back up the system.
 	5. Change the password(s) to the affected system(s).
 	6. Determine whether it is safe to continue operations with the affect system(s).
-	7. If it is safe, allow the system to continue to function; 
+	7. If it is safe, allow the system to continue to function;
 		1. Complete any documentation relative to the security incident on the SIR Form.
-		2. Move to Phase V, Follow-up.	
+		2. Move to Phase V, Follow-up.
 	8. If it is NOT safe to allow the system to continue operations, discontinue the system(s) operation and move to Phase III, Eradication.
 	9. The individual completing this phase provides written communication to the SIRT.
 4. Continuously apprise Senior Management of progress.
@@ -126,6 +126,4 @@ Individuals needed and responsible to respond to a security incident make up a S
 * Security Officer
 * Privacy Officer
 * Senior Management
-* Lead Engineer
-
-
+* Chief Architect

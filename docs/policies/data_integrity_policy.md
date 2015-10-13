@@ -16,7 +16,7 @@ Production Systems that create, receive, store, or transmit customer data (herea
 
 ### Disabling non-essential services
 
-* All Production Systems must disable services that are not required to achieve the business purpose or function of the system. 
+* All Production Systems must disable services that are not required to achieve the business purpose or function of the system.
 
 ### Monitoring Log-in Attempts
 
@@ -39,7 +39,7 @@ Production Systems that create, receive, store, or transmit customer data (herea
 
 ### Production System Security
 
-* System, network, and server security is managed and maintained by the CTO and the Security Officer. <!-- CTO => VP of Engineering -->
+* System, network, and server security is managed and maintained by the Chief Architect and the Security Officer. <!-- CTO => VP of Engineering -->
 * Up to date system lists and architecture diagrams are kept for all Production environments.
 * Access to Production Systems is controlled using centralized tools and two-factor authentication.
 

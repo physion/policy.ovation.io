@@ -55,12 +55,12 @@ The following order of succession to ensure that decision-making authority for t
 
 The following teams have been developed and trained to respond to a contingency event affecting the IT system.
 
-1. The **Ops Team** is responsible for recovery of the Physion hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of Physion. The team leader is the VP of Engineering and directs the Dev Ops Team.
-2. The **Web Services Team** is responsible for assuring all application servers, and web services are working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the CTO and directs the Web Services Team.
+1. The **Ops Team** is responsible for recovery of the Physion hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of Physion. The team leader is the Chief Architect and directs the Dev Ops Team.
+2. The **Web Services Team** is responsible for assuring all application servers, and web services are working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the Chief Architect and directs the Web Services Team.
 
 ## Testing and Maintenance
 
-The CTO and Lead Engineer shall establish criteria for validation/testing of a Contingency Plan, an annual test schedule, and ensure implementation of the test. This process will also serve as training for personnel involved in the plan’s execution. At a minimum the Contingency Plan shall be tested annually (within 365 days). The types of validation/testing exercises include tabletop and technical testing. Contingency Plans for all application systems must be tested at a minimum using the tabletop testing process. However, if the application system Contingency Plan is included in the technical testing of their respective support systems that technical test will satisfy the annual requirement.
+The CTO and Chief Architect shall establish criteria for validation/testing of a Contingency Plan, an annual test schedule, and ensure implementation of the test. This process will also serve as training for personnel involved in the plan’s execution. At a minimum the Contingency Plan shall be tested annually (within 365 days). The types of validation/testing exercises include tabletop and technical testing. Contingency Plans for all application systems must be tested at a minimum using the tabletop testing process. However, if the application system Contingency Plan is included in the technical testing of their respective support systems that technical test will satisfy the annual requirement.
 
 ### Tabletop Testing
 
@@ -78,17 +78,17 @@ The primary objective of the technical test is to ensure the communication proce
 
 ## 1. Notification and Activation Phase
 
-This phase addresses the initial actions taken to detect and assess damage inflicted by a disruption to Physion. Based on the assessment of the Event, sometimes according to the Physion Incident Response Policy, the Contingency Plan may be activated by either the CTO or Lead Engineer.
+This phase addresses the initial actions taken to detect and assess damage inflicted by a disruption to Physion. Based on the assessment of the Event, sometimes according to the Physion Incident Response Policy, the Contingency Plan may be activated by either the CTO or Chief Architect.
 
 The notification sequence is listed below:
 
 1. The first responder is to notify the CTO. All known information must be relayed to the CTO.
-2. The Lead Engineer is to contact the Web Services Team and inform them of the event. The CTO is to to begin assessment procedures.
+2. The Chief Architect is to contact the Web Services Team and inform them of the event. The CTO is to to begin assessment procedures.
 3. The CTO is to notify team members and direct them to complete the assessment procedures outlined below to determine the extent of damage and estimated recovery time. If damage assessment cannot be performed locally because of unsafe conditions, the CTO is to follow the steps below.
 	* *Damage Assessment Procedures:*
-  	* The CTO and VP of Engineering are to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
+  	* The CTO and Chief Architect are to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
 	* *Alternate Assessment Procedures:*
-  	* Upon notification from the CTO, the Lead Engineer is to follow the procedures for damage assessment with combined DevOps and Web Services Teams.
+  	* Upon notification from the CTO, the Chief Architect is to follow the procedures for damage assessment with combined DevOps and Web Services Teams.
 4. The Physion Contingency Plan is to be activated if one or more of the following criteria are met:
 	* Ovation will be unavailable for more than 48 hours.
 	* Hosting facility is damaged and will be unavailable for more than 24 hours.
