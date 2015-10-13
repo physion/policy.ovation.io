@@ -1,9 +1,9 @@
 # Physion HIPAA Compliance Policies
 
-HIPAA compliance is complicated, but it doesn't have to be. Physion helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
+HIPAA compliance is complicated, but it doesn't have to be. Physion helps relieve the technical burden with our HIPAA-compliant and cloud-based scientific data layer as a service.
 
-In an effort to make compliance as easy as possible for companies working with protected health information (PHI), we decided to open source our company policies. 
-	
+In an effort to make compliance as easy as possible for companies working with protected health information (PHI), we decided to open source our company policies.
+
 Our policies have been written with modern, cloud-based technology vendors in mind. We looked far and wide for policy examples that fit our company, and couldn't find any. So we wrote our own. Importantly, these policies have been through three external audits—two HIPAA audits and one HITRUST audit.
 
 Do you handle PHI and not yet have your own company policies in place? Then you'll find our content useful.
@@ -24,7 +24,7 @@ As a company who handles PHI, it's critical you maintain and publish your own po
 
 1. Read through all the enclosed policies to get an understanding to the structure.
 2. When ready, download the policies and comb through for mentions of Physion or our business and change to appropriate references to your company.
-3. Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://Physion.io/policy/).
+3. Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://policy.ovation.io/).
 
 ## Who is behind this?
 
@@ -69,6 +69,3 @@ Each policy is included as it's own markdown file in case you want to cherry pic
 * [Key Definitions](key_definitions.md)
 * [Physion HIPAA Business Associate Agreement (“BAA”)](Physion_hipaa_business_associate_agreement.md)
 * [HIPAA Mappings to Physion Controls](hipaa_mapping_to_Physion_controls.md)
-
-
-
