@@ -1,8 +1,8 @@
 # Breach Policy
 
-To provide guidance for breach notification when impressive or unauthorized access, acquisition, use and/or disclosure of the ePHI occurs. Breach notification will be carried out in compliance with the American Recovery and Reinvestment Act (ARRA)/Health Information Technology for Economic and Clinical Health Act (HITECH) as well as any other federal or state notification law. 
+To provide guidance for breach notification when impressive or unauthorized access, acquisition, use and/or disclosure of the ePHI occurs. Breach notification will be carried out in compliance with the American Recovery and Reinvestment Act (ARRA)/Health Information Technology for Economic and Clinical Health Act (HITECH) as well as any other federal or state notification law.
 
-The Federal Trade Commission (FTC) has published breach notification rules for vendors of personal health records as required by ARRA/HITECH. The FTC rule applies to entities not covered by HIPAA, primarily vendors of personal health records. The rule is effective September 24, 2009 with full compliance required by February 22, 2010. 
+The Federal Trade Commission (FTC) has published breach notification rules for vendors of personal health records as required by ARRA/HITECH. The FTC rule applies to entities not covered by HIPAA, primarily vendors of personal health records. The rule is effective September 24, 2009 with full compliance required by February 22, 2010.
 
 The American Recovery and Reinvestment Act of 2009 (ARRA) was signed into law on February 17, 2009. Title XIII of ARRA is the Health Information Technology for Economic and Clinical Health Act (HITECH). HITECH significantly impacts the Health Insurance Portability and Accountability (HIPAA) Privacy and Security Rules.  While HIPAA did not require notification when patient protected health information (PHI) was inappropriately disclosed, covered entities and business associates may have chosen to include notification as part of the mitigation process. HITECH does require notification of certain breaches of unsecured PHI to the following: individuals, Department of Health and Human Services (HHS), and the media. The effective implementation for this provision is September 23, 2009 (pending publication HHS regulations).
 
@@ -28,11 +28,11 @@ In the case of a breach, Physion shall notify all affected Customers. It is the 
 	* Consideration of who impermissibly used or to whom the information was impermissibly disclosed;
 	* The type and amount of ePHI involved;
 	* The cause of the breach, and the entity responsible for the breach, either Customer, Physion, or Partner.
-	* The potential for significant risk of financial, reputational, or other harm. 
-4. Timeliness of Notification: Upon discovery of a breach, notice shall be made to the affected Physion Customers no later than 24 hours after the discovery of the breach. It is the responsibility of the organization to demonstrate that all notifications were made as required, including evidence demonstrating the necessity of delay. 
+	* The potential for significant risk of financial, reputational, or other harm.
+4. Timeliness of Notification: Upon discovery of a breach, notice shall be made to the affected Physion Customers no later than 24 hours after the discovery of the breach. It is the responsibility of the organization to demonstrate that all notifications were made as required, including evidence demonstrating the necessity of delay.
 5. Delay of Notification Authorized for Law Enforcement Purposes:  If a law enforcement official states to the organization that a notification, notice, or posting would impede a criminal investigation or cause damage to national security, the organization shall:
 	* If the statement is in writing and specifies the time for which a delay is required, delay such notification, notice, or posting of the time period specified by the official; or
-	* If the statement is made orally, document the statement, including the identify of the official making the statement, and delay the notification, notice, or posting temporarily and no longer than 30 days from the date of the oral statement, unless a written statement as described above is submitted during that time. 
+	* If the statement is made orally, document the statement, including the identify of the official making the statement, and delay the notification, notice, or posting temporarily and no longer than 30 days from the date of the oral statement, unless a written statement as described above is submitted during that time.
 6. Content of the Notice: The notice shall be written in plain language and must contain the following information:
 	* A brief description of what happened, including the date of the breach and the date of the discovery of the breach, if known;
 	* A description of the types of unsecured protected health information that were involved in the breach (such as whether full name, Social Security number, date of birth, home address, account number, diagnosis, disability code or other types of information were involved), if known;
@@ -92,5 +92,5 @@ Sincerely,
 
 Barry Wark, PhD
 CEO — Physion LLC
-barry@physion.us
+barry@ovation.io
 617-299-9520
