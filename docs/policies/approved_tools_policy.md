@@ -1,10 +1,10 @@
 # Approved Tools Policy
 
-Physion utilizes a suite of approved software tools for internal use by workforce members. These software tools are either self-hosted, with security managed by Physion, or they are hosted by a Subcontractor with appropriate business associate agreements in place to preserve data integrity. Use of other tools requires approval from Physion leadership.
+Ovation utilizes a suite of approved software tools for internal use by workforce members. These software tools are either self-hosted, with security managed by Ovation, or they are hosted by a Subcontractor with appropriate business associate agreements in place to preserve data integrity. Use of other tools requires approval from Ovation leadership.
 
 ## List of Approved Tools
 
-* **GitHub**. GitHub is used for source and version control of application code written and used by Physion.
+* **GitHub**. GitHub is used for source and version control of application code written and used by Ovation.
 
 * **Google Apps**. Google Apps is used for email and document collaboration.
 

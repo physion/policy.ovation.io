@@ -1,6 +1,6 @@
 # System Access Policy
 
-Access to Physion systems and applications is limited for all users, including but not limited to workforce members, volunteers, business associates, contracted providers, consultants, and any other entity, is allowable only on a minimum necessary basis. All users are responsible for reporting an incident of unauthorized user or access of the organization’s information systems. These safeguards have been established to address the HIPAA Security regulations including the following:
+Access to Ovation systems and applications is limited for all users, including but not limited to workforce members, volunteers, business associates, contracted providers, consultants, and any other entity, is allowable only on a minimum necessary basis. All users are responsible for reporting an incident of unauthorized user or access of the organization’s information systems. These safeguards have been established to address the HIPAA Security regulations including the following:
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -32,18 +32,18 @@ Access to Physion systems and applications is limited for all users, including b
 ## Access Establishment and Modification
 
 * Requests for access to Ovation Platform systems and applications is made formally to the Chief Architect, Privacy Officer, or Security Officer.
-* Access is not granted until receipt, review, and approval by the Physion Security Officer;
+* Access is not granted until receipt, review, and approval by the Ovation Security Officer;
 * The request for access is retained for future reference.
-* All access to Physion systems and services are reviewed and updated on an bi-annual basis to assure proper authorizations are in place commiserate with job functions. <!-- The form used to conduct account review is [here](https://docs.google.com/a/Physion.io/forms/d/1oeejMta4XLiUsdH2gTKQ-glec6DBiwPJoY9F60HmPWk/viewform). -->
-* Any Physion workforce member can request change of access by emailing the Security Officer.
+* All access to Ovation systems and services are reviewed and updated on an bi-annual basis to assure proper authorizations are in place commiserate with job functions. <!-- The form used to conduct account review is [here](https://docs.google.com/a/Ovation.io/forms/d/1oeejMta4XLiUsdH2gTKQ-glec6DBiwPJoY9F60HmPWk/viewform). -->
+* Any Ovation workforce member can request change of access by emailing the Security Officer.
 * Access to systems is controlled using centralized user management and authentication. When possible, all authentication requests utilize two factor authentication using mobile devices as the second factor.
 * Temporary accounts are not used unless absolutely necessary for business purposes.
 	* Accounts are reviewed every 90 days to assure temporary accounts are not left unnecessarily.
 	* Accounts that are inactive for over 90 days are removed.
-* In the case of non-personal information, such as generic educational content, identification and authentication may not be required. This is the responsibility of Physion Customers to define, and not Physion.
+* In the case of non-personal information, such as generic educational content, identification and authentication may not be required. This is the responsibility of Ovation Customers to define, and not Ovation.
 * Privileged users must first access systems using standard, unique user accounts before switching to privileged users and performing privileged tasks.
 * All application-to-application communication using service accounts is restricted and not permitted unless absolutely needed. Automated tools are used to limit account access across applications and systems.
-* Generic accounts are not allowed on Physion systems.
+* Generic accounts are not allowed on Ovation systems.
 <!-- * Access is granted through encrypted, VPN tunnels.
   * VPN utilizes AES 256 bit encryption. -->
 * In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
@@ -53,12 +53,12 @@ Access to Physion systems and applications is limited for all users, including b
 
 * The level of security assigned to a user to the organization’s information systems is based on the minimum necessary amount of data access required to carry out legitimate job responsibilities assigned to a user’s job classification and/or to a user needing access to carry out treatment, payment, or healthcare operations.
 * All access requests are treated on a ‘least-access principle”.
-* Physion maintains a minimum necessary approach to access to Customer data. As such, Physion LLC, including all workforce members, does not readily have access to any ePHI.
+* Ovation maintains a minimum necessary approach to access to Customer data. As such, Ovation.io, Inc., including all workforce members, does not readily have access to any ePHI.
 
 ## Access Authorization
 
-* Role based access categories for each Physion system and application are pre-approved by the Security Officer or Chief Architect.
-* Physion utilizes hardware and software firewalls to segment data, prevent unauthorized access, and monitor traffic for denial of service attacks.
+* Role based access categories for each Ovation system and application are pre-approved by the Security Officer or Chief Architect.
+* Ovation utilizes hardware and software firewalls to segment data, prevent unauthorized access, and monitor traffic for denial of service attacks.
 
 ## Person or Entity Authentication
 
@@ -67,11 +67,11 @@ Access to Physion systems and applications is limited for all users, including b
 
 ## Unique User Identification
 
-* Access to the Physion Platform systems and applications is controlled by requiring unique User Login ID’s and passwords for each individual user and developer.
+* Access to the Ovation Platform systems and applications is controlled by requiring unique User Login ID’s and passwords for each individual user and developer.
 * Passwords requirements mandate strong password controls (see below).
 * Passwords are not displayed at any time and are not transmitted or stored in plain text.
 * Default accounts on all production systems, including root, are disabled.
-* Shared accounts are not allowed within Physion systems or networks.
+* Shared accounts are not allowed within Ovation systems or networks.
 
 ## Automatic Logoff
 
@@ -81,7 +81,7 @@ Access to Physion systems and applications is limited for all users, including b
 
 ## Employee Workstation Use
 
-All workstations at Physion are company owned, and all are laptop Apple products running Mac operating system.
+All workstations at Ovation are company owned, and all are laptop Apple products running Mac operating system.
 
 * Workstations may not be used to engage in any activity that is illegal or is in violation of organization’s policies.
 * Access may not be used for transmitting, retrieving, or storage of any communications of a discriminatory or harassing nature or materials that are obscene or “X-rated”. Harassment of any kind is prohibited. No messages with derogatory or inflammatory remarks about an individual’s race, age, disability, religion, national origin, physical attributes, sexual preference, or health condition shall be transmitted or maintained. No abusive, hostile, profane, or offensive language is to be transmitted through organization’s system.
@@ -91,17 +91,17 @@ All workstations at Physion are company owned, and all are laptop Apple products
 * Users may not misrepresent, obscure, suppress, or replace another user’s identity in transmitted or stored messages.
 * Workstation hard drives will be encrypted using FileVault 2.0.
 * All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-* All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Physion LLC. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.ovation.io/) and have completed this training (https://training.ovation.io/). Please contact us if you have problems with this - privacy@ovation.io.*
+* All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Ovation.io, Inc.. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.ovation.io/) and have completed this training (https://training.ovation.io/). Please contact us if you have problems with this - privacy@ovation.io.*
 
 ## Wireless Access Use
 
-* Physion production systems are not accessible directly over wireless channels.
+* Ovation production systems are not accessible directly over wireless channels.
 * Wireless access disabled on all production systems.
 * When access production systems via remote wireless connections, the same system access policies and procedures apply to wireless as all other connections, including wired.
-* Wireless networks managed within Physion non-production facilities (offices, etc) are secured with the following configurations:
+* Wireless networks managed within Ovation non-production facilities (offices, etc) are secured with the following configurations:
 	* All data in transit over wireless is encrypted using WPA2 encryption;
 	* SSIDs are not broadcast;
-  <!-- * Passwords are rotated on a regular basis, presently quarterly. This process is managed by the Physion Security Officer. -->
+  <!-- * Passwords are rotated on a regular basis, presently quarterly. This process is managed by the Ovation Security Officer. -->
 
 
 ## Employee Termination Procedures
@@ -116,13 +116,13 @@ All workstations at Physion are company owned, and all are laptop Apple products
 
 ## Paper Records
 
-Physion does not use paper records for any sensitive information. Use of paper for recording and storing sensitive data is against Physion policies.
+Ovation does not use paper records for any sensitive information. Use of paper for recording and storing sensitive data is against Ovation policies.
 
 ## Password Management
 
-* User IDs and passwords are used to control access to Physion systems and may not be disclosed to anyone for any reason.
+* User IDs and passwords are used to control access to Ovation systems and may not be disclosed to anyone for any reason.
 * Users may not allow anyone, for any reason, to have access to any information system using another user’s unique user ID and password.
-* On all production systems and application in the Physion environment, password configurations are set to require that passwords are a minimum of 8 character length, 90 day password expiration, account lockout after 5 invalid attempts, and account lockout after 15 minutes of inactivity.
+* On all production systems and application in the Ovation environment, password configurations are set to require that passwords are a minimum of 8 character length, 90 day password expiration, account lockout after 5 invalid attempts, and account lockout after 15 minutes of inactivity.
 * All system and application passwords are hashed by concatenating the user's password and a random 256-bit salt value, generated on a per-user basis, and then applying SHA-256 to the value to create a password hash. The password hash and the salt are then stored in the backend database and are used for password validation on future user authentication attempts.* Each information system automatically requires users to change passwords at a pre-determined interval as determined by the organization, based on the criticality and sensitivity of the ePHI contained within the network, system, application, and/or database.
 * Passwords are inactivated immediately upon an employee’s termination (refer to the termination procedures in this policy).
 * All default system, application, and Partner passwords are changed before deployment to production.
