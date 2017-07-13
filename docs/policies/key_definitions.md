@@ -1,6 +1,6 @@
 # Key Definitions
 
-* *Application*: An application hosted by Physion, either maintained and created by Physion, or maintained and created by a Customer or Partner.
+* *Application*: An application hosted by Ovation, either maintained and created by Ovation, or maintained and created by a Customer or Partner.
 
 * *Application Level*: Controls and security associated with an Application.
 
@@ -30,13 +30,13 @@
 
 * *Disclosure*: Disclosure means the release, transfer, provision of, access to, or divulging in any other manner of information outside the entity holding the information.
 
-* *Customers*: Contractually bound users of Physion Services (e.g. Ovation).
+* *Customers*: Contractually bound users of Ovation Services (e.g. Ovation).
 
 * *Electronic Protected Health Information (ePHI)*: Any individually identifiable health information protected by HIPAA that is transmitted by, processed in some way, or stored in electronic media. 
 
 * *Environment*: The overall technical environment, including all servers, network devices, and applications.
 
-* *Event*: An event is defined as an occurrence that does not constitute a serious adverse effect on Physion, its operations, or its Customers, though it may be less than optimal. Examples of events include, but are not limited to:
+* *Event*: An event is defined as an occurrence that does not constitute a serious adverse effect on Ovation, its operations, or its Customers, though it may be less than optimal. Examples of events include, but are not limited to:
 	* Hard drive malfunction that requires replacement;
 	* Systems become unavailable due to power outage that is non-hostile in nature, with redundancy to assure ongoing availability of data;
 	* Accidental lockout of an account due to incorrectly entering a password multiple times.
@@ -67,7 +67,7 @@
 
 * *Off-Site*: For the purpose of storage of Backup media, off-site is defined as any location separate from the building in which the backup was created. It must be physically separate from the creating site.
 
-* *Organization*: For the purposes of this policy, the term “organization” shall mean Physion.
+* *Organization*: For the purposes of this policy, the term “organization” shall mean Ovation.
 
 * *Partner*: Contractual bound 3rd party vendor with integration with the Ovation Platform. May offer Add-on services.
 
@@ -108,7 +108,7 @@
 * *Security Incident* (or just Incident): A security incident is an occurrence that exercises a significant adverse effect on people, process, technology, or data. Security incidents include, but are not limited to: 
 	* A system or network breach accomplished by an internal or external entity; this breach can be inadvertent or malicious;
 	* Unauthorized disclosure;
-	* Unauthorized change or destruction of ePHI (i.e. delete dictation, data alterations not following Physion’s procedures);
+	* Unauthorized change or destruction of ePHI (i.e. delete dictation, data alterations not following Ovation’s procedures);
 	* Denial of service not attributable to identifiable physical, environmental, human or technology causes;
 	* Disaster or enacted threat to business continuity;
 	* Information Security Incident: A violation or imminent threat of violation of information security policies, acceptable use policies, or standard security practices. Examples of information security incidents may include, but are not limited to, the following:
@@ -143,7 +143,7 @@
 	5. Paper, film, or other hard copy media have been shredded or destroyed such that the PHI cannot be read or otherwise cannot be reconstructed. Redaction is specifically excluded as a means of data destruction.
 	6. Electronic media have been cleared, purged, or destroyed consistent with NIST Special Publications 800-88, Guidelines for Media Sanitization, such that the PHI cannot be retrieved.
 
-* *Vendors*: Persons from other organizations marketing or selling products or services, or providing services to Physion. 
+* *Vendors*: Persons from other organizations marketing or selling products or services, or providing services to Ovation. 
 
 * *Vulnerability*: A weakness or flaw in an information system that can be accidentally triggered or intentionally exploited by a threat and lead to a compromise in the integrity of that system, i.e., resulting in a security breach or violation of policy.
 

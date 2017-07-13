@@ -1,6 +1,6 @@
 # IDS Policy
 
-In order to preserve the integrity of data that Physion stores, processes, or transmits for Customers, Physion or a Subcontractor implements strong intrusion detection tools and policies to proactively track and retroactively investigate unauthorized access. Physion and our Subcontractor currently utilizes [OSSEC](http://www.ossec.net/) to track file system integrity, monitor log data, and detect rootkit access.
+In order to preserve the integrity of data that Ovation stores, processes, or transmits for Customers, Ovation or a Subcontractor implements strong intrusion detection tools and policies to proactively track and retroactively investigate unauthorized access. Ovation and our Subcontractor currently utilizes [OSSEC](http://www.ossec.net/) to track file system integrity, monitor log data, and detect rootkit access.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -18,7 +18,7 @@ In order to preserve the integrity of data that Physion stores, processes, or tr
 * OSSEC generates alerts to analyze and investigate suspicious activity or suspected violations.
 * OSSEC monitors file system integrity and sends real time alerts when suspicious changes are made to the file system.
 * Automatic monitoring is done to identify patterns that might signify the lack of availability of certain services and systems (DOS attacks).
-* Physion firewalls monitor all incoming traffic to detect potential denial of service attacks. Suspected attack sources are blocked automatically. Additionally, our hosting provider actively monitors its network to detect denial of services attacks.
+* Ovation firewalls monitor all incoming traffic to detect potential denial of service attacks. Suspected attack sources are blocked automatically. Additionally, our hosting provider actively monitors its network to detect denial of services attacks.
 * All new firewall rules and configuration changes are tested before being pushed into production. All firewall and router rules are reviewed every quarter.
-* Physion utilizes redundant firewall on network perimeters.
-* Static IP addresses are used for Physion servers.
+* Ovation utilizes redundant firewall on network perimeters.
+* Static IP addresses are used for Ovation servers.
