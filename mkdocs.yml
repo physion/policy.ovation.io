@@ -23,4 +23,10 @@ pages:
   # - ['policies/vulnerability_scanning_policy.md', 'Vulnerability Scanning Policy']
   # - ['policies/incident_response_policy.md', 'Incident Response Policy']
   - ['license.md', 'License']
-theme: readthedocs
+theme: material
+extra:
+  palette:
+    primary: 'blue grey'
+    accent: 'orange'
+  logo: 'images/ovation_logo.jpg'
+site_favicon: 'images/favicon.ico'
