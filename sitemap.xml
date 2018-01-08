@@ -163,6 +163,14 @@
 
     
     <url>
+     <loc>/policies/baa/</loc>
+     <lastmod>2018-01-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>/license/</loc>
      <lastmod>2018-01-08</lastmod>
      <changefreq>daily</changefreq>
