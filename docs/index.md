@@ -4,7 +4,7 @@ Ovation.io, Inc. ("Ovation") is committed to ensuring the confidentiality, priva
 
 ## Compliance Inheritance
 
-Ovation provides compliant hosted software infrastructure for its Customers. Ovation's deployment infrastructure is provided by Catalyze. Catalyze has been through a HIPAA compliance audit by a national, 3rd party compliance firm, to validate and map organizational policies and technical settings to HIPAA rules. Ovation is currently undergoing a HITRUST audit to achieve HITRUST Certification.
+Ovation provides compliant hosted software infrastructure for its Customers. Ovation's deployment infrastructure is provided by Datica Health, Inc ("Datica"). Datica has been through a HIPAA compliance audit by a national third-party compliance firm to validate and map organizational policies and technical controls to HIPAA rules. Datica’s company policies, procedures, and technologies are HITRUST Certified.
 
 Ovation signs business associate agreements (BAAs) with its Customers. These BAAs outline Ovation obligations and Customer obligations, as well as liability in the case of a breach.
 
