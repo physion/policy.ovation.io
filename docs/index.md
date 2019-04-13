@@ -14,7 +14,7 @@ Below are mappings of HIPAA Rules to Ovation controls.
 
 ## Ovation Organizational Concepts
 
-The physical infrastructure environment is hosted on [Amazon Web Services](http://aws.amazon.com) (AWS). The network components and supporting network infrastructure is contained within AWS infrastructure and managed by AWS. Ovation does not have physical access into the network components. The Ovation environment consists of Cisco firewalls, Apache web servers, Dropwizard Java application servers, Percona and Riak database servers, Logstash logging servers, Linux Ubuntu monitoring servers, Puppet access control server, OSSEC IDS services, Docker containers, Linux CentOS bastion host, and developer tools servers running on Linux Ubuntu.
+The physical infrastructure environment is hosted on [Amazon Web Services](http://aws.amazon.com) (AWS). The network components and supporting network infrastructure is contained within AWS infrastructure and managed by AWS. Ovation does not have physical access into the network components. The Ovation environment consists of Cisco firewalls, Apache web servers, Puma application servers, Percona and Riak database servers, Logstash logging servers, Linux Ubuntu monitoring servers, Puppet access control server, OSSEC IDS services, Docker containers, Linux CentOS bastion host, and developer tools servers running on Linux Ubuntu.
 
 Within the Ovation Platform, all data transmission is encrypted and all hard drives are encrypted so data at rest is also encrypted; this applies to all servers - those hosting Docker containers, databases, APIs, log servers, etc. Ovation assumes all data *may* contain ePHI, even though our Risk Assessment does not indicate this is the case, and provides appropriate protections based on that assumption.
 
@@ -29,10 +29,10 @@ Additionally, IPtables is used on each each server for logical segmentation. The
 
 <!-- In the case of Platform Add-ons, once the data is received from the application server, a series of Application Programming Interface (API) calls is made to the database servers where the ePHI resides. The ePHI is separated into Riak and Percona databases through programming logic built, so that access to one database server will not present you with the full ePHI spectrum.  -->
 
-The bastion host, Apache web server, Dropwizard application servers are externally facing and accessible via the Internet. The database servers, where the ePHI resides, are located on the internal Ovation network and can only be accessed directly over an SSH connection through the bastion host. The access to the internal database is restricted to a limited number of personnel and strictly controlled to only those personnel with a business justified reason. Remote access to the internal servers is not accessible except through the load balancers and bastion host.
+The bastion host, Apache web server, Puma application servers are externally facing and accessible via the Internet. The database servers, where the ePHI resides, are located on the internal Ovation network and can only be accessed directly over an SSH connection through the bastion host. The access to the internal database is restricted to a limited number of personnel and strictly controlled to only those personnel with a business justified reason. Remote access to the internal servers is not accessible except through the load balancers and bastion host.
 
 All Platform Add-ons and operating systems are tested end-to-end for usability, security and impact prior to deployment to production.
 
 ## Version Control
 
-Policies were last updated November 30, 2018.
+Policies were last updated April 15, 2019.
