@@ -1,11 +1,11 @@
-# Terms of Service (Ovation Diagnostic)
+# Terms of Service for Ovation Diagnostic (OvDx)
 Last updated: April 12, 2019
 
 ## 1. TERMS OF SERVICE
 
 Thank you for using Ovation Diagnostic (**OvDx**)!
 
-**Acceptance.**  Ovation.io, Inc. (***Ovation***) owns and operates the websites *.ovation.io and *.labtests.io (collectively, the Site) and the Platform and Ovation Diagnostic (***OvDx*** or the ***Service***, as defined below).  Your access to the Site and Platform and all other use of the Service is subject to acceptance without modification of all of the terms and conditions contained herein (***Terms of Service***).  The Terms of Service shall also be deemed to include all other operating rules, conditions, policies and procedures that are referred to below or that may otherwise be published or implemented by Ovation, from time to time, within the Platform (collectively, ***Policies***), including without limitation, the [Privacy Policy](privacy.md) and [Business Associate Agreement](baa.md).
+**Acceptance.**  Ovation.io, Inc. (***Ovation***) owns and operates the websites \*.ovation.io and \*.labtests.io (collectively, the ***Site***) and the Platform and Ovation Diagnostic (***OvDx*** or the ***Service***, as defined below).  Your access to the Site and Platform and all other use of the Service is subject to acceptance without modification of all of the terms and conditions contained herein (***Terms of Service***).  The Terms of Service shall also be deemed to include all other operating rules, conditions, policies and procedures that are referred to below or that may otherwise be published or implemented by Ovation, from time to time, within the Platform (collectively, ***Policies***), including without limitation, the [Privacy Policy](privacy.md) and [Business Associate Agreement](baa.md).
 
 **IF YOU ARE ACCESSING THE PLATFORM AND USING THE SERVICE ON BEHALF OF, FOR THE BENEFIT OF OR UNDER AN ACCOUNT ESTABLISHED BY ANY CUSTOMER, THEN YOU ACKNOWLEDGE AND AGREE THAT:  YOU ARE ALSO BOUND BY ALL OTHER TERMS AND CONDITIONS THAT ARE APPLICABLE TO THAT CUSTOMER (WHETHER SET FORTH IN THESE TERMS OF SERVICE OR IN ANY CONTRACT BETWEEN THAT CUSTOMER AND OVATION); AND THAT IT IS YOUR RESPONSIBILITY TO IDENTIFY, UNDERSTAND AND COMPLY WITH ALL SUCH OTHER TERMS AND CONDITIONS.**
 
