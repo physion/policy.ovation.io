@@ -1,5 +1,5 @@
 # Terms of Service for Ovation Diagnostic (OvDx)
-Last updated: April 12, 2019
+Last updated: April 15, 2019
 
 ## 1. TERMS OF SERVICE
 

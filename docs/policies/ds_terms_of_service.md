@@ -1,6 +1,6 @@
 # Terms of Service for Ovation Data Services (OvDs)
 
-Last updated: April 12, 2019
+Last updated: April 15, 2019
 
 ## 1. TERMS OF SERVICE.
 **Acceptance.**  Ovation.io, Inc. (Ovation) owns and operates the website \*.ovation.io (the ***Site***) and the Platform (defined below) and Ovation Data Services (***OvDs*** or the ***Service***, as defined below).  Your access to the Site and Platform and all other use of the Service is subject to acceptance without modification of all of the terms and conditions contained herein (***Terms of Service***).  The Terms of Service shall also be deemed to include all other operating rules, conditions, policies and procedures that are referred to below or that may otherwise be published or implemented by Ovation, from time to time, within the Platform (collectively, ***Policies***), including without limitation, the [Privacy Policy](privacy.md).
