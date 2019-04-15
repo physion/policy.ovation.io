@@ -43,9 +43,7 @@ From time to time, Our Products &amp; Services may provide links or other access
 
 ## 6. Terms of Service
 
-For more information about using Our Products &amp; Services, please refer to our [Terms of Service][tos] for information on our other policies and guidelines regarding use of Our Products &amp; Services.  Although we do not think it would happen, in the event of any conflicting terms, the Terms of Service are controlling over this Privacy Policy.
-
-[tos]: https://lab-services.ovation.io/terms_of_service.html "Ovation Terms of Service"
+For more information about using Our Products &amp; Services, please refer to our [OvDx Terms of Service](dx_terms_of_service.md) and [OvDs Terms of Service](ds_terms_of_service.md) for information on our other policies and guidelines regarding use of Our Products &amp; Services.  Although we do not think it would happen, in the event of any conflicting terms, the Terms of Service are controlling over this Privacy Policy.
 
 ## 7. Changes to this Privacy Policy
 
