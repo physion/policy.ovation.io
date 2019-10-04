@@ -64,7 +64,7 @@ The CTO and Chief Architect shall establish criteria for validation/testing of a
 
 ### Tabletop Testing
 
-Tabletop Testing is conducted in accordance with the the CMS Risk Management Handbook, Volume 2 (http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/InformationSecurity/Downloads/RMH_VII_4-5_Contingency_Plan_Exercise.pdf). The primary objective of the tabletop test is to ensure designated personnel are knowledgeable and capable of performing the notification/activation requirements and procedures as outlined in the CP, in a timely manner. The exercises include, but are not limited to:
+Tabletop Testing is conducted in accordance with the the [CMS Risk Management Handbook, Volume 2](https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/InformationSecurity/Downloads/RMH-Chapter-2-Awareness-and-Training.pdf). The primary objective of the tabletop test is to ensure designated personnel are knowledgeable and capable of performing the notification/activation requirements and procedures as outlined in the CP, in a timely manner. The exercises include, but are not limited to:
 
 * Testing to validate the ability to respond to a crisis in a coordinated, timely, and effective manner, by simulating the occurrence of a specific crisis.
 
@@ -112,23 +112,21 @@ The tasks outlines below are not sequential and some can be run in parallel.
 
 1. Contact Partners and Customers affected - Web Services
 2. Assess damage to the environment - Web Services
-3. Begin replication of new environment using automated and tested scrips, currently Salt and/or AWS Elastic Beanstalk environments. A this point it is determined whether to recover in AWS or in Rackspace. - Dev Ops
+3. Begin replication of new environment using automated and tested scripts, currently Datica and/or AWS Elastic Beanstalk environments. A this point it is determined whether to recover in AWS or in Datica. - Dev Ops
 4. Test new environment using pre-written tests - Web Services
 5. Test logging, security, and alerting functionality - Dev Ops
-6. Assure systems are appropriately patched and up to date. - Dev Ops
-7. Deploy environment to production - Web Services
-8. Update DNS to new environment. - Dev Ops
+6. Deploy environment to production - Web Services
+7. Update DNS to new environment. - Dev Ops
 
 ## 3. Reconstitution Phase
 
 This section discusses activities necessary for restoring Ovation operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, Ovation operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
 
 1. Original or New Site Restoration
-	* Begin replication of new environment using automated and tested scrips, currently Salt and/or AWS Elastic Beanstalk environments. - Dev Ops
+	* Begin replication of new environment using automated and tested scrips, currently Datica and/or AWS Elastic Beanstalk environments. - Dev Ops
 	* Test new environment using pre-written tests. - Web Services
 	* Test logging, security, and alerting functionality. - Dev Ops
 	* Deploy environment to production - Web Services
-	* Assure systems are appropriately patched and up to date. - Dev Ops
 	* Update DNS to new environment. - Dev Ops
 
 2. Plan Deactivation
