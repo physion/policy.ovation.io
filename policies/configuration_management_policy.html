@@ -8,19 +8,19 @@
       
       
       
-      <link rel="shortcut icon" href="assets/images/favicon.png">
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.1.0">
     
     
       
-        <title>Introduction - Ovation.io, Inc.</title>
+        <title>Configuration Management Policy - Ovation.io, Inc.</title>
       
     
     
-      <link rel="stylesheet" href="assets/stylesheets/main.bc7e593a.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.bc7e593a.min.css">
       
         
-        <link rel="stylesheet" href="assets/stylesheets/palette.ab28b872.min.css">
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab28b872.min.css">
         
           
           
@@ -60,7 +60,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#introduction" class="md-skip">
+        <a href="#configuration-management-policy" class="md-skip">
           Skip to content
         </a>
       
@@ -71,13 +71,11 @@
     
       
 
-  
-
 <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid" aria-label="Header">
-    <a href="./index.html" title="Ovation.io, Inc." class="md-header-nav__button md-logo" aria-label="Ovation.io, Inc.">
+    <a href=".." title="Ovation.io, Inc." class="md-header-nav__button md-logo" aria-label="Ovation.io, Inc.">
       
-  <img src="img/ovation_logo.jpg" alt="logo">
+  <img src="../img/ovation_logo.jpg" alt="logo">
 
     </a>
     <label class="md-header-nav__button md-icon" for="__drawer">
@@ -91,7 +89,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Introduction
+              Configuration Management Policy
             
           </span>
         </div>
@@ -146,13 +144,11 @@
                   <div class="md-sidebar__inner">
                     
 
-  
-
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="./index.html" title="Ovation.io, Inc." class="md-nav__button md-logo" aria-label="Ovation.io, Inc.">
+    <a href=".." title="Ovation.io, Inc." class="md-nav__button md-logo" aria-label="Ovation.io, Inc.">
       
-  <img src="img/ovation_logo.jpg" alt="logo">
+  <img src="../img/ovation_logo.jpg" alt="logo">
 
     </a>
     Ovation.io, Inc.
@@ -166,7 +162,7 @@
 
 
   <li class="md-nav__item">
-    <a href="policies/privacy.html" class="md-nav__link">
+    <a href="privacy.html" class="md-nav__link">
       Privacy Policy
     </a>
   </li>
@@ -178,7 +174,7 @@
 
 
   <li class="md-nav__item">
-    <a href="policies/baa.html" class="md-nav__link">
+    <a href="baa.html" class="md-nav__link">
       Business Associate Agreement
     </a>
   </li>
@@ -190,7 +186,7 @@
 
 
   <li class="md-nav__item">
-    <a href="policies/dx_terms_of_service.html" class="md-nav__link">
+    <a href="dx_terms_of_service.html" class="md-nav__link">
       Ovation Diagnostic (OvDx) Terms of Service
     </a>
   </li>
@@ -213,6 +209,35 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#applicable-standards-from-the-hitrust-common-security-framework" class="md-nav__link">
+    Applicable Standards from the HITRUST Common Security Framework
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#applicable-standards-from-the-hipaa-security-rule" class="md-nav__link">
+    Applicable Standards from the HIPAA Security Rule
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#configuration-management" class="md-nav__link">
+    Configuration Management
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -224,8 +249,32 @@
               
                 
                 
-                <h1 id="introduction">Introduction</h1>
-<p>Ovation.io, Inc. ("Ovation") is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information (ePHI) it receives, maintains, processes and/or transmits on behalf of its Customers. As providers of compliant, hosted infrastructure used by health technology vendors, developers, designers, agencies, custom development shops, and enterprises, Ovation strives to maintain compliance, proactively address information security, mitigate risk for its Customers, and assure known breaches are completely and effectively communicated in a timely manner. The following documents address core policies used by Ovation to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for Ovation Customers.</p>
+                <h1 id="configuration-management-policy">Configuration Management Policy</h1>
+<p>Ovation standardizes and automates configuration management through the use of Salt scripts and AWS Elastic Beanstalk deployment environments, as well as documentation of all changes to production systems and networks. Salt and Elastic Beanstalk automatically configure all Ovation systems according to established and tested policies, and is used as part of our Disaster Recovery plan and process.</p>
+<h2 id="applicable-standards-from-the-hitrust-common-security-framework">Applicable Standards from the HITRUST Common Security Framework</h2>
+<ul>
+<li>06 - Configuration Management</li>
+</ul>
+<h2 id="applicable-standards-from-the-hipaa-security-rule">Applicable Standards from the HIPAA Security Rule</h2>
+<ul>
+<li>164.310(a)(2)(iii) Access Control &amp; Validation Procedures</li>
+</ul>
+<h2 id="configuration-management">Configuration Management</h2>
+<ol>
+<li>Salt and/or AWS Elastic Beanstalk environments are used to standardize and automate configuration management.</li>
+<li>OSSEC is used to scan systems every 2 hours and on reboot. These scans capture file system changes and also unauthorized or malicious software.</li>
+<li>No systems are deployed into Ovation environments without approval of the Ovation Chief Architect.</li>
+<li>All changes to production systems, network devices, and firewalls are approved by the Ovation Chief Architect before they are implemented. Additionally, all changes are tested before they are implemented in production.</li>
+<li>An up-to-date inventory of systems is maintained using AWS and Datica dashboards. All systems are categorized as production and utility to differentiate based on criticality.</li>
+<li>Clocks are synchronized across all systems using NTP. Modifying time data on systems is restricted.</li>
+<li>All front end functionality (developer dashboards and portals) is separated from backend (database and app servers) systems by being deployed on separate servers.</li>
+<li>All software and systems are tested using unit tests and end to end tests.</li>
+<li>All committed code is reviewed using pull requests (on Github) to assure software code quality and proactively detect potential security issues in development.</li>
+<li>Ovation utilizes development and staging environments that mirror production to assure proper function.</li>
+<li>Ovation schedules production deployments every four weeks or on an as-needed basis. In all cases, all Customers are notified of production deployments at least 14 days in advance of deployment.</li>
+<li>All formal change requests require unique ID and authentication.</li>
+<li>All configuration changes to development, staging or production systems are logged and auditable.</li>
+</ol>
                 
               
               
@@ -261,15 +310,15 @@
       
     </div>
     
-      <script src="assets/javascripts/vendor.6a3d08fc.min.js"></script>
-      <script src="assets/javascripts/bundle.71201edf.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      <script src="../assets/javascripts/vendor.6a3d08fc.min.js"></script>
+      <script src="../assets/javascripts/bundle.71201edf.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
       
       <script>
         app = initialize({
-          base: ".",
+          base: "..",
           features: [],
           search: Object.assign({
-            worker: "assets/javascripts/worker/search.4ac00218.min.js"
+            worker: "../assets/javascripts/worker/search.4ac00218.min.js"
           }, typeof search !== "undefined" && search)
         })
       </script>
