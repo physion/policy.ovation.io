@@ -1,36 +1,43 @@
-site_name: Ovation Policies
-pages:
-  - ['index.md', 'Introduction']
-  - ['policies/policy_management_policy.md', 'Policy Management Policy']
-  - ['policies/key_definitions.md', 'Key Definitions']
-  - ['policies/3rd_party_policy.md', '3rd Party Policy']
-  - ['policies/approved_tools_policy.md', 'Approved Tools Policy']
-  - ['policies/auditing_policy.md', 'Auditing Policy']
-  - ['policies/breach_policy.md', 'Breach Policy']
-  - ['policies/configuration_management_policy.md', 'Configuration Management Policy']
-  - ['policies/data_integrity_policy.md', 'Data Integrity Policy']
-  - ['policies/data_management_policy.md', 'Data Management Policy']
-  - ['policies/data_retention_policy.md', 'Data Retention Policy']
-  - ['policies/disaster_recovery_policy.md', 'Disaster Recovery Policy']
-  - ['policies/disposable_media_policy.md', 'Disposable Media Policy']
-  - ['policies/employees_policy.md', 'Employees Policy']
-  - ['policies/facility_access_policy.md', 'Facility Access Policy']
-  - ['policies/hipaa_mapping_to_ovation_controls.md', 'HIPAA Mappings to Ovation Controls']
-  - ['policies/ids_policy.md', 'Intrusion Detection System Policy']
-  - ['policies/risk_management_policy.md', 'Risk Management Policy']
-  - ['policies/roles_policy.md', 'Roles']
-  - ['policies/systems_access_policy.md', 'Systems Access Policy']
-  - ['policies/baa.md', 'Business Associate Agreement']
-  - ['policies/dx_terms_of_service.md', 'Terms of Service (Ovation Diagnostic)']
-  - ['policies/ds_terms_of_service.md', 'Terms of Service (Ovation Data Services)']
-  - ['policies/privacy.md', 'Privacy Policy']
+site_name: Ovation.io, Inc.
+copyright: Copyright © 2020. Ovation.io, Inc.
+# google_analytics: ['UA-XXXXXXX-X', 'policy.ovation.io'] TODO  
+use_directory_urls: false
+strict: false
+nav:
+  - Privacy Policy: 'policies/privacy.md'
+  - Business Associate Agreement: 'policies/baa.md'
+  - Ovation Diagnostic (OvDx) Terms of Service: 'policies/dx_terms_of_service.md'
+  #- ['index.md', 'Introduction']
+  # - ['policies/policy_management_policy.md', 'Policy Management Policy']
+  # - ['policies/key_definitions.md', 'Key Definitions']
+  # - ['policies/3rd_party_policy.md', '3rd Party Policy']
+  # - ['policies/approved_tools_policy.md', 'Approved Tools Policy']
+  # - ['policies/auditing_policy.md', 'Auditing Policy']
+  # - ['policies/breach_policy.md', 'Breach Policy']
+  # - ['policies/configuration_management_policy.md', 'Configuration Management Policy']
+  # - ['policies/data_integrity_policy.md', 'Data Integrity Policy']
+  # - ['policies/data_management_policy.md', 'Data Management Policy']
+  # - ['policies/data_retention_policy.md', 'Data Retention Policy']
+  # - ['policies/disaster_recovery_policy.md', 'Disaster Recovery Policy']
+  # - ['policies/disposable_media_policy.md', 'Disposable Media Policy']
+  # - ['policies/employees_policy.md', 'Employees Policy']
+  # - ['policies/facility_access_policy.md', 'Facility Access Policy']
+  # - ['policies/hipaa_mapping_to_ovation_controls.md', 'HIPAA Mappings to Ovation Controls']
+  # - ['policies/ids_policy.md', 'Intrusion Detection System Policy']
+  # - ['policies/risk_management_policy.md', 'Risk Management Policy']
+  # - ['policies/roles_policy.md', 'Roles']
+  # - ['policies/systems_access_policy.md', 'Systems Access Policy']
+  # - ['policies/privacy.md', 'Privacy Policy']
+  # - ['policies/baa.md', 'Business Associate Agreement']
+  # - ['policies/dx_terms_of_service.md', 'Terms of Service (Ovation Diagnostic)']
+  # - ['policies/ds_terms_of_service.md', 'Terms of Service (Ovation Data Services)']
   # - ['policies/vulnerability_scanning_policy.md', 'Vulnerability Scanning Policy']
   # - ['policies/incident_response_policy.md', 'Incident Response Policy']
-  - ['license.md', 'License']
-theme: material
-extra:
+  # - ['license.md', 'License']
+theme: 
+  name: material
   palette:
     primary: 'blue grey'
     accent: 'orange'
-  logo: 'images/ovation_logo.jpg'
-site_favicon: 'images/favicon.ico'
+  logo: 'img/ovation_logo.jpg'
+site_favicon: 'img/favicon.ico'
