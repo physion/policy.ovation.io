@@ -1,7 +1,7 @@
 site_name: Ovation.io, Inc.
-copyright: Copyright © 2020. Ovation.io, Inc.
+copyright: Copyright © 2020. Ovation.io, Inc. (___VERSION___)
 # google_analytics: ['UA-XXXXXXX-X', 'policy.ovation.io'] TODO  
-use_directory_urls: false
+use_directory_urls: true
 strict: false
 nav:
   - Privacy Policy: 'policies/privacy.md'
@@ -40,4 +40,3 @@ theme:
     primary: 'blue grey'
     accent: 'orange'
   logo: 'img/ovation_logo.jpg'
-site_favicon: 'img/favicon.ico'
