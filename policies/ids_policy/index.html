@@ -8,19 +8,19 @@
       
       
       
-      <link rel="shortcut icon" href="assets/images/favicon.png">
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.1.0">
     
     
       
-        <title>Ovation.io, Inc.</title>
+        <title>IDS Policy - Ovation.io, Inc.</title>
       
     
     
-      <link rel="stylesheet" href="assets/stylesheets/main.bc7e593a.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.bc7e593a.min.css">
       
         
-        <link rel="stylesheet" href="assets/stylesheets/palette.ab28b872.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab28b872.min.css">
         
           
           
@@ -60,7 +60,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#introduction" class="md-skip">
+        <a href="#ids-policy" class="md-skip">
           Skip to content
         </a>
       
@@ -73,9 +73,9 @@
 
 <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid" aria-label="Header">
-    <a href="." title="Ovation.io, Inc." class="md-header-nav__button md-logo" aria-label="Ovation.io, Inc.">
+    <a href="../.." title="Ovation.io, Inc." class="md-header-nav__button md-logo" aria-label="Ovation.io, Inc.">
       
-  <img src="img/ovation_logo.jpg" alt="logo">
+  <img src="../../img/ovation_logo.jpg" alt="logo">
 
     </a>
     <label class="md-header-nav__button md-icon" for="__drawer">
@@ -89,7 +89,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Introduction
+              IDS Policy
             
           </span>
         </div>
@@ -146,9 +146,9 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="." title="Ovation.io, Inc." class="md-nav__button md-logo" aria-label="Ovation.io, Inc.">
+    <a href="../.." title="Ovation.io, Inc." class="md-nav__button md-logo" aria-label="Ovation.io, Inc.">
       
-  <img src="img/ovation_logo.jpg" alt="logo">
+  <img src="../../img/ovation_logo.jpg" alt="logo">
 
     </a>
     Ovation.io, Inc.
@@ -162,7 +162,7 @@
 
 
   <li class="md-nav__item">
-    <a href="policies/privacy/" class="md-nav__link">
+    <a href="../privacy/" class="md-nav__link">
       Privacy Policy
     </a>
   </li>
@@ -174,7 +174,7 @@
 
 
   <li class="md-nav__item">
-    <a href="policies/baa/" class="md-nav__link">
+    <a href="../baa/" class="md-nav__link">
       Business Associate Agreement
     </a>
   </li>
@@ -186,7 +186,7 @@
 
 
   <li class="md-nav__item">
-    <a href="policies/dx_terms_of_service/" class="md-nav__link">
+    <a href="../dx_terms_of_service/" class="md-nav__link">
       Ovation Diagnostic (OvDx) Terms of Service
     </a>
   </li>
@@ -209,6 +209,35 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#applicable-standards-from-the-hitrust-common-security-framework" class="md-nav__link">
+    Applicable Standards from the HITRUST Common Security Framework
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#applicable-standards-from-the-hipaa-security-rule" class="md-nav__link">
+    Applicable Standards from the HIPAA Security Rule
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intrusion-detection-policy" class="md-nav__link">
+    Intrusion Detection Policy
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -220,8 +249,29 @@
               
                 
                 
-                <h1 id="introduction">Introduction</h1>
-<p>Ovation.io, Inc. ("Ovation") is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information (ePHI) it receives, maintains, processes and/or transmits on behalf of its Customers. As providers of compliant, hosted infrastructure used by health technology vendors, developers, designers, agencies, custom development shops, and enterprises, Ovation strives to maintain compliance, proactively address information security, mitigate risk for its Customers, and assure known breaches are completely and effectively communicated in a timely manner. The following documents address core policies used by Ovation to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for Ovation Customers.</p>
+                <h1 id="ids-policy">IDS Policy</h1>
+<p>In order to preserve the integrity of data that Ovation stores, processes, or transmits for Customers, Ovation or a Subcontractor implements strong intrusion detection tools and policies to proactively track and retroactively investigate unauthorized access. Ovation and our Subcontractor currently utilizes <a href="http://www.ossec.net/">OSSEC</a> to track file system integrity, monitor log data, and detect rootkit access.</p>
+<h2 id="applicable-standards-from-the-hitrust-common-security-framework">Applicable Standards from the HITRUST Common Security Framework</h2>
+<ul>
+<li>09.ab - Monitoring System Use</li>
+<li>06.e - Prevention of Misuse of Information</li>
+<li>10.h - Control of Operational Software</li>
+</ul>
+<h2 id="applicable-standards-from-the-hipaa-security-rule">Applicable Standards from the HIPAA Security Rule</h2>
+<ul>
+<li>164.312(b) - Audit Controls</li>
+</ul>
+<h2 id="intrusion-detection-policy">Intrusion Detection Policy</h2>
+<ul>
+<li>OSSEC is used to monitor and correlate log data from different systems on an ongoing basis. Reports generated by OSSEC are reviewed by the Security Officer on a monthly basis.</li>
+<li>OSSEC generates alerts to analyze and investigate suspicious activity or suspected violations.</li>
+<li>OSSEC monitors file system integrity and sends real time alerts when suspicious changes are made to the file system.</li>
+<li>Automatic monitoring is done to identify patterns that might signify the lack of availability of certain services and systems (DOS attacks).</li>
+<li>Ovation firewalls monitor all incoming traffic to detect potential denial of service attacks. Suspected attack sources are blocked automatically. Additionally, our hosting provider actively monitors its network to detect denial of services attacks.</li>
+<li>All new firewall rules and configuration changes are tested before being pushed into production. All firewall and router rules are reviewed every quarter.</li>
+<li>Ovation utilizes redundant firewall on network perimeters.</li>
+<li>Static IP addresses are used for Ovation servers.</li>
+</ul>
                 
               
               
@@ -257,15 +307,15 @@
       
     </div>
     
-      <script src="assets/javascripts/vendor.6a3d08fc.min.js"></script>
-      <script src="assets/javascripts/bundle.71201edf.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      <script src="../../assets/javascripts/vendor.6a3d08fc.min.js"></script>
+      <script src="../../assets/javascripts/bundle.71201edf.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
       
       <script>
         app = initialize({
-          base: ".",
+          base: "../..",
           features: [],
           search: Object.assign({
-            worker: "assets/javascripts/worker/search.4ac00218.min.js"
+            worker: "../../assets/javascripts/worker/search.4ac00218.min.js"
           }, typeof search !== "undefined" && search)
         })
       </script>
