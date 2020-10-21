@@ -12,4 +12,4 @@ git push --tags
 
 sed "s/___VERSION___/${RELEASE_VERSION}/" mkdocs_template.yml > mkdocs.yml
 
-mkdocs gh-deploy --clean -m "Deploy ${RELEASE_VERSION}"
+mkdocs gh-deploy --ignore-version --clean -m "Deploy ${RELEASE_VERSION}"
