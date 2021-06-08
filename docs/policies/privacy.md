@@ -2,7 +2,7 @@
 
 Last Updated: April 15, 2019
 
-We need to let you know about what we do with information we collect from you, how it is used, and other details about privacy.
+We really want to let you know about what we do with information we collect from you, how it is used, and other details about privacy.
 
 This Privacy Policy discloses the privacy practices our websites, software, and services (collectively, "Our Products & Services" or "Services"). This Privacy Policy applies to any type of access we make available to you for Our Products & Services, such as websites, applications on your electronic devices, through APIs, and through third parties.
 
