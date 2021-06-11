@@ -16,3 +16,4 @@ theme:
     primary: 'blue grey'
     accent: 'orange'
   logo: 'img/ovation_logo.jpg'
+plugins: []
