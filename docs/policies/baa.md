@@ -75,7 +75,6 @@ Capitalized terms used but not defined herein have the meanings assigned to them
 ## 7.	TERM AND TERMINATION.
 
 **a.	Term.** The term of this BAA will commence on the BAA Effective Date and will remain in effect until the termination of the Services Agreement. Customer may terminate this BAA if Business Associate has violated a material term of this BAA, provided, however, that Customer shall provide Business Associate notice of such violation and a reasonable opportunity to cure the violation.
-b. Effect of Termination. At termination of this BAA, Business Associate, if feasible, will return or destroy all PHI that Business Associate still maintains in its role as Business Associate for the purposes of carrying out the Services, if any. If return or destruction is not feasible, Business Associate will extend the protections of this BAA to the PHI, limit further uses and disclosures to those purposes that make the return of the PHI infeasible, and make no further use or disclosure of PHI.
 
 **b.	Effect of Termination.** At termination of this BAA, Business Associate, if feasible, will return or destroy all PHI that Business Associate still maintains in its role as Business Associate for the purposes of carrying out the Services, if any. If return or destruction is not feasible, Business Associate will extend the protections of this BAA to the PHI, limit further uses and disclosures to those purposes that make the return of the PHI infeasible, and make no further use or disclosure of PHI.
 
