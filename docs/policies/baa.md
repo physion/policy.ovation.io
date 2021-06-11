@@ -4,7 +4,7 @@ Last updated: June 10, 2021
 
 ## 1.	SERVICE.
 
-Ovation.io, Inc. (**Ovation** or B**usiness Associate**) owns and operates the websites *.ovation.io, and *.labtests.io (collectively, the Site), Platform and Service, which are accessed and used by its Customers and their Users to (among other things) organize, track and share scientific, technical and/or clinical data.
+Ovation.io, Inc. (**Ovation** or **Business Associate**) owns and operates the websites *.ovation.io, and *.labtests.io (collectively, the Site), Platform and Service, which are accessed and used by its Customers and their Users to (among other things) organize, track and share scientific, technical and/or clinical data.
 
 The following business associate agreement (**BAA**) explains Ovation's obligations as a "business associate" under the Health Insurance Portability and Accountability Act of 1996 and its implementing regulations, including the Standards for the Privacy of Individually Identifiable Health Information (**Privacy Rule**) (45 CFR Part 160 and Subparts A and E of Part 164) and the Security Standards for the Protection of Electronic Protected Health Information (**Security Rule**) (45 CFR Part 160 and Subparts A and C of Part 164), and the Health Information Technology for Economic and Clinical Health Act (Title XIII, Subtitle D) and its implementing regulations (**HITECH**) (together **HIPAA**), if applicable. This BAA supplements the other terms and conditions that apply between Customer and Ovation, which are set forth in the [Terms of Service](tos.md).
 
@@ -83,7 +83,7 @@ b. Effect of Termination. At termination of this BAA, Business Associate, if fea
 
 **a.	Amendment.** Customer and Business Associate agree to take such action as is reasonably necessary to amend this BAA from time to time as is necessary for either party to comply with the requirements of the Privacy Rule and related laws and regulations.
 
-**b.	Survival.** Customer's and Business Associate’s respective rights and obligations under Sections 4(e)-(f), and 7(b) - (d) of this BAA shall survive the termination of the Services Agreement.
+**b.	Survival.** Customer's and Business Associate’s respective rights and obligations under Sections 4(e)-(f) and 7(b)-(d) of this BAA shall survive the termination of the Services Agreement.
 
 **c.	Interpretation.** Any ambiguity in the Services Agreement shall be resolved to permit Business Associate and the Customer to comply with HIPAA and the Privacy Rule.
 
